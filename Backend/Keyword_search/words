@@ -1,0 +1,1598 @@
+Page 1:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+  Chapter 3:
+
+  External Loads
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design   60
+
+Page 2:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aerospace Structure Loads
+In the course of Loads Analysis, it is important to distinguish between
+" External loads:
+   Are the applied loads like aerodynamics, inertia,
+    engine thrust, etc.
+
+" Internal loads
+   Counter react the external loads,
+                                                                                                                 Exemplary external loads
+   I.e., internal and external loads are in equilibrium
+
+
+
+
+                                                                                                                                    Researchgate.net
+
+
+                                                                                      Exemplary internal loads
+                        https://digilander.libero.it/sbernardini/projects/pictures/Image21.jpg
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                     61
+
+Page 3:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aerospace Structure Loads  Aircraft
+In the context of aerospace structure design loads are defined as
+" Those forces applied to the structure components to establish the strength safety level of the complete aerospace
+  vehicle
+" Aircraft loads are organised in the following categories:
+
+                                                                                          Aircraft
+                                                                                          Loads
+
+
+
+
+                                                                                                            Ground
+                                 Manoeuvre                             Dynamic                                                               Special
+                                                                                                            Handling
+
+
+
+
+                   e.g. 2.5        Bank to                                                    Taxi, turn,   Tow, jack,                                 Failure
+                                                 &              Gust             Buffet                                  Impact      Crash
+                 interception      bank roll                                                    break         hoist                                    cases
+
+
+
+
+                                                                   Continuous
+                                                     Discrete                                                                     One engine
+                                                                   turbulence                                                                      Acuator jam   &
+                                                                                                                                     out
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                                        62
+
+Page 4:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Load Sources
+The aircraft structure (Airframe) is exposed to following load sources:
+" Aerodynamics: Lift and drag depend on flow conditions
+   Speed (Mach number Ma)
+   Altitude (air density)
+   Airfoil
+   Trimming conditions, mainly angle of attack
+" Inertia:                                                  V flow direction
+                                                                 
+
+
+
+
+   Mass distribution, Centre of Gravity (CoG)                                 Landing Gear
+
+   Accelerations
+" Engine
+   Thrust including installation angle
+                                                                                              https://i.stack.imgur.com/
+
+
+   Offset wrt. CoG
+" Landing gear
+   Aircraft mass
+   Sink rate
+   Type of landing gear
+" Special loads:
+   Engine and control surface faults
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                             63
+
+Page 5:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads Analysis
+The aircraft loads analysis has the procedure steps:
+" Load sources are combined in a load case (loading scenario)
+" All load cases are brought to equilibrium (static or dynamic)
+" Load cases are categorised as follows:
+   Manoeuvre loads
+   Dynamic loads
+   Ground handling loads
+   Special loads
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design    64
+
+Page 6:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft load sources in more detail
+" Aerodynamic loads
+
+
+" Inertia loads
+
+
+" Landing loads
+
+
+" Special loads (Crash, engine failure, actuator jam, etc.)
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design   65
+
+Page 7:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+                                                                Aerodynamics Loads
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                        66
+
+Page 8:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Lift and drag coefficients                                                           565?                                           565?
+                                                                                                      nonlinear area
+                                                   L
+
+
+         5I                                                                    565?0              565?
+                                               M
+                          5¸                                                                î5¸      565?5¸ =
+                                                                                                           565?
+                                                                                                           5¸
+                                                                                            linear area
+
+
+                                                                                     5¸0    Lift Polar
+                                                                                                                       5¸                  Drag Polar
+                                                                                                                                                       5657
+                           resulting forces acting in the aerodynamic center
+
+                                          5 2                                                                         5 2
+                         lift:          5?= 5I  5F  565?                                 moment:                    5@=     5I  5F  5Pß  565@
+                                          2                                                                          2
+                                         5 2                                                                            5565?
+                      drag:           57 = 5I  5F  5657                          lift curve slope:                 565?5¸ =
+                                         2                                                                              55¸
+                                                                        5 2
+                                          dynamic pressure:        5^=    5I
+                                                                        2 
+                                    angle of attack:               5¸
+                               reference wing area:                5F
+                     mean aerodynamic chord length:                5Pß
+                                     Lift coefficient:             565?
+                                   Drag coefficient:               5657
+                                Moment coefficient:                565@
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                         67
+
+Page 9:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Lift and drag Polars  NACA 2408
+
+
+
+
+                                                                  Polars depend on
+                                                                  " Airfoil
+                                                                  " Reynolds number
+                                                                  " Mach number
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design   http://airfoiltools.com/airfoil/details?airfoil=naca2408-il#polars   68
+
+Page 10:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Mach Number M:
+" The Mach number is a quantity defined as the ratio of local flow velocity to local speed of sound and is given by
+                                                                      5I
+                                                                 5@=
+                                                                      5N
+  with speed of sound: 5N =                       5˛5E5G
+  5˛ = 1.4 & adiabatic constant                                                    Air at standard sea level:
+  5E = 287.052874 5= ≈ 5X5T1 ≈ 5> 1 & molar gas constant                             5G = 15∞56 = 288.15 5>
+  5G & absolute temperature 5>                                                                                                                        5Z
+                                                                                    5N=             5˛5E5G = 1.4  287  288.15 = 340.4
+" Mach number is a non-dimensional (i.e., unitless) parameter                                                                                       5`
+" Mach number indicates the flow compressibility
+   Subsonic flow: 5@ < 1
+   Supersonic flow: 5@ > 1
+   Sonic flow: 5@ = 1
+   Transonic flow: 0.8 < 5@ < 1.2
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design            http://airfoiltools.com/airfoil/details?airfoil=naca2408-il#polars   69
+
+Page 11:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Reynolds Number:
+" The Reynolds number (5E5R ) helps to predict the flow patterns in different fluid flow situations
+   Laminar (small 5E5R ), low drag
+   Turbulent (large 5E5R ), high drag
+                                                                           55I5?
+                                                                      5E5R =
+                                                                             5
+                                                                                                    "      Standard Day Conditions (ISA): Primarily used in
+                                 5>5T
+" 5 is the density of the fluid (5Z3)                                                                       aerospace and atmospheric sciences, with a reference
+                                                                                                           temperature of 15∞C and pressure of 1 atm.
+                  5Z                                                                                 "      Standard Ambient Conditions (SATP): More commonly
+" 5I is the speed ( 5` )                                                                                     found in laboratory and chemical contexts, defined as
+                                                                                                           25∞C and 1 atm.
+" 5? is a characteristic length, usually the Airfoil chord (5Z)
+                                                                 5>5T
+" 5 is the dynamic viscosity of the fluid (5Z5` = 5C5N  5`) (depend on temperature, constant with pressure)
+   Air under standard atmospheric conditions (25 ∞C and pressure of 1 bar): 18.5 º5C5N  5`
+" Reynolds number represents the importance of viscosity i.e., friction (drag)
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                     http://airfoiltools.com/airfoil/details?airfoil=naca2408-il#polars     70
+
+Page 12:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+The lift distribution can be influenced by adjusting the airfoils, planform and twist/incidence angle of the wing.
+
+
+
+                                                            5?(5f)
+                                                                                        5?                     565?              nonlinear area
+
+                                                                            5Y
+                                                                                                        565?0             565?
+                                                                                                                                   565?
+                                                                                                5O   y                     565?5¸ =
+                                                                                                                   î5¸              5¸
+                                                                                                2
+                                                                                                                     linear area
+
+
+                                                                                                              5¸0    Lift Polar
+                                                                                                                                               5¸
+                                                                   b
+
+                                               assumption: elliptic lift distribution
+
+                                                                                            2
+                                                                                       5f
+                                                lift distribution:     5? 5f = 5?0  1 
+                                                                                      5O/2                          5 2
+                                                                                                              5?=    5I  5F  565?
+                               lever arm of effective lift force:
+                                                                             4 5O       5O                           2 
+                                                                       5Y=        H 42%
+                                                                            35 2       2
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                     71
+
+Page 13:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Difference between an infinite wing (wing section) and a finite wing
+" The lift and drag polars are determined for infinite wings
+" According to the tip vortices of finite wings:
+   Lift slope curve is reduced (down wash effect)
+  Induced drag is generated
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design      Introduction to Flight, John D. Anderson Jr.   72
+
+Page 14:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Difference between an infinite wing (wing section) and a finite wing
+" Correction of finite wing lift polar slope:
+
+                        5565?          5N0
+   5N = 565?5¸ =                =              5N                     Infinite wing
+                        55¸    1 + 57,3 5  5R 0 545E
+                                                                 (aerodynamic profile)
+
+   5N: 5`5Y5\5]5R 5\5S 5Y5V5S5a 5]5\5Y5N5_ 5\5S 5S5V5[5V5a5R 5d5V5[5T
+   5N0 : 5`5Y5\5]5R 5\5S 5Y5V5S5a 5]5\5Y5N5_ 5\5S 5V5[5S5V5[5V5a5R 5d5V5[5T
+   5R  0.9  1.0 : wing efficiency factor
+         5O2
+                                                                 Finite wing
+   545E = 5F : Wing aspect ratio
+   5O: wing span length
+   5F: wing area
+                                    565?2
+" Induced drag coefficient: 56575V = 52545F5R
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design          Introduction to Flight, John D. Anderson Jr.   73
+
+Page 15:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Fundamentals of Aerodynamics
+Estimation of aerodynamic lift
+" Choose airfoil e.g., NACA0024
+" Determine airfoil polars
+                                                                 5565?
+" Measure polar lift curve slope 5N0 = 565?5¸,0 =                    55¸ 0
+" Correct polars to the finite wing:
+                                                                   556
+   Compute corrected lift curve slope 5N = 565?5¸ = 55¸5?
+                                     5                    5
+" Compute Lift: 5? = 2 5I2  5F  565? = 2 5I2  5F  5N  5¸  5¸0
+                                                                                5?(5f)
+                                                                                                            5?
+                                                                                               5Y
+
+
+
+                                                                                                                5O   y
+                                                                                                                2
+
+
+
+
+                                                                                       b
+
+                                                                   assumption: elliptic lift distribution
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                          74
+
+Page 16:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+                                                                Inertia Loads
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                   75
+
+Page 17:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Inertia
+According to Newtons second law the inertia loads occur when the aircraft masses are accelerated
+
+
+                                                                   59& = 5@  5N&
+                                              Inertia loads                                             accelerations
+                                                                Aircraft mass (matrix)
+
+
+
+                   Moments
+        (in principal coordinate system)
+                                                                                                         Angular acceleration
+                                                             5Q5?
+                                                        5@5\ =    = 5<0  56
+                                                             5Q5a
+                                                                                           Aircraft inertia tensor
+                                                                                          (in principal coordinate system)
+                                                                                                                             5? = 5_& ◊ 5Z  5c&
+                                                                     5? Angular Momentum
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                            76
+
+Page 18:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Inertia
+Mass distribution and mass model
+" The aircraft masses are organised in following different categories
+   Non-structural mass
+     o Engine, Fuel, Equipment (avionics, mission systems, hydraulic system, fuel system, etc.), painting, fairings, etc.
+   Structural mass
+                                                                                                                                                                  5@, 5<0
+     o Primary structure (skin, stringers, spars, ribs, frames, floors, joints, etc.)
+     o Secondary structure (pad-ups. Rivets, bolts and nuts, etc.)
+" The mass model is usually integrated over boxes into lumped masses                                                                                   Numerical Mass Model
+  yielding the numerical mass model (for computing the loads)
+
+                                                                                                                              Sum over all masses in the box in
+                                                                                               Õ 5@5V                           each of aforementioned categories
+
+
+
+                                                                                        Õ 5<5V + 5@5V  5_5V
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design   https://www.dlr.de/ae/en/desktopdefault.aspx/tabid-9639/16569_read-40470/gallery-1/216_read-1/               77
+
+Page 19:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Inertia
+Mass conditions (configurations)
+" The different aircraft mass conditions are arranged in so-called mass configurations
+" The mass configurations play an important role in the computation of aircraft loads
+" Most relevant mass configurations are:
+  Maximum Take-off Weight
+  Basic Flight Design Mass,
+  Maximum Wing Zero Fuel Mass
+  Maximum Design Mass,
+  Minimum Flying Mass,
+  Landing Design Mass
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design   https://commons.wikimedia.org/wiki/File:Takeoff_weight_diagram.svg   78
+
+Page 20:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads - Inertia
+Accelerations and rates
+" In flight the accelerations are defined in the so-called aircraft body coordinate system
+" The rotational speed around an axis in flight is called Rate
+" According to flight mechanic fundamentals the accelerations and rates are
+   nx acceleration along the x axis
+                                                                           ny
+   ny acceleration along the y axis
+   nz acceleration along the z axis                             5^, 5^6 =
+                                                                           5Q5^
+                                                                           5Q5a
+   p rate around the x axis
+   q rate around the x axis
+   r rate around the x axis
+             5Q5]
+   5]6 = 5Q5a acceleration around the x axis
+             5Q5^                                                                                                               5Q5_
+   5^6 = 5Q5a acceleration around the y axis                           nx                   5Q5]                       r, 5_6 =
+                                                                                                                              5Q5a
+                                                                                p, 5]6 =
+             5Q5_                                                                           5Q5a                 nz
+   5_6 = 5Q5a acceleration around the z axis
+                                                                                 https://www.grc.nasa.gov/www/k-12/airplane/Images/rotations.gif
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                     79
+
+Page 21:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+                                                                         Trimming
+                                                                Aerodynamic + inertia + thrust = 0
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                        80
+
+Page 22:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Trimming
+" Trimming the aircraft is the procedure of bringing all applied external loads into equilibrium to fly a steady manoeuvre
+" Equilibrium is usually achieved in all six degrees of freedom (3 translational = Forces, 3 rotational = Moments):
+   Force equilibrium:
+    √ 595e = 0 : Thrust, drag and inertia
+                                                                             Drag
+       Sometimes the longitudinal x axis is omitted (when the
+       aerodynamic data doesnt cover the drag properly)
+                                                                Thrust
+                                                                 x
+
+                                                                                               Rudder
+               √ 595f = 0 : Rudder, lift, thrust and inertia               Y
+
+
+
+                                                                                    Thrust
+                                  √ 595g = 0 : Lift and weight                                 Weight
+                                                                                                           Lift
+
+
+                                                                                                  Z     Lift
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                      81
+
+Page 23:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Trimming
+" Roll control:
+   Moment equilibrium around 5e axis:
+    √ 5@5e = 0 : 5E5\5Y5Y 5R5^5b5V5Y5V5O5_5V5b5Z (5N5V5Y5R5_5\5[, 5V5[5R5_5a5V5N)
+                                                                                 x
+
+
+  Unknown (trimming variable) is the antimetric deflection of the ailerons 5ˇ5V
+
+                                                                                         5ˇ5V aileron deflection
+
+                                                                                     Y
+
+
+
+
+                                                                                 x
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                           82
+
+Page 24:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Trimming
+" Pitch control:                                                                            Y
+   Moment equilibrium around 5f axis:
+    √ 5@5f = 0 : 5C5V5a5P 5R5^5b5V5Y5V5O5_5V5b5Z
+
+                                                                                        x
+                                                                      angle of attack AoA: 5¸
+  Unknowns (trimming variables) are
+                                                                                                Flow direction
+    o Angle of attack (AoA), 5¸
+    o Tailplane angle of attack 5¸ 5G
+    o Deflection of elevator 5
+
+
+
+
+                                                                5¸ 5G Tailplane angle of attack
+
+
+                                                                                                Flow direction
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                    83
+
+Page 25:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Trimming
+" Yaw control:                                                                           Z
+   Moment equilibrium around z axis:
+    √ 5@5g = 0 : 5L5N5d 5R5^5b5V5Y5V5O5_5V5b5Z
+
+
+
+  Unknowns (trimming variables) are
+    o Yaw angle, ≤                                                      x
+                                                                Yaw angle: ≤
+    o Rudder deflection 5	
+
+                                                                               Flow direction
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                   84
+
+Page 26:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads - Trimming
+" Summary:
+
+  In order to trim the aircraft (for a steady manoeuvre load case) establish equilibrium in all degrees of freedom:
+    √ 595e = 0 : mainly, thrust, drag and inertia
+    √ 595f = 0 : mainly, rudder force, lift, thrust and inertia
+    √ 595g = 0 : mainly, lift and weight
+    √ 5@5e = 0 : 5E5\5Y5Y 5R5^5b5V5Y5V5O5_5V5b5Z, 5Z5N5V5[5Y5f 5N5V5Y5R5_5\5[ 5N5[5Q 5V5[5R5_5a5V5N
+    √ 5@5f = 0 : 5C5V5a5P 5R5^5b5V5Y5V5O5_5V5b5Z, 5Z5N5V5[5Y5f 5R5Y5R5c5N5a5\5_ 5N5[5Q 5V5[5R5_5a5V5N
+    √ 5@5g = 0 : 5L5N5d 5R5^5b5V5Y5V5O5_5V5b5Z, 5Z5N5V5[5Y5f 5_5b5Q5Q5R5_5S5\5_5P5R 5N5[5Q 5V5[5R5_5a5V5N
+
+
+  Unknowns (trimming variable) are
+    o Angle of attack (AoA), 5¸
+    o Yaw angle, ≤
+    o Tailplane angle of attack 5¸ 5G
+    o Rudder deflection 5	
+    o Deflection of elevator 5
+    o Deflection of any other control surface, 5ˇ
+  What do you think: Is the number of unknowns and equations identical in each load (trimming) case?
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                      85
+
+Page 27:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+                                                                Load Cases
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                86
+
+Page 28:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads  Definition of Load Cases
+" Reminder: Load cases have the following categories:
+   Manoeuvre loads
+   Dynamic loads
+   Ground handling loads
+   Special loads
+" Load cases are defined in order to guaranty the safety and integrity of the airframe
+" The load cases depend on the aircraft type and planned usage described in the Structure Design Criteria (SDC):
+   The SDC define, among others, the maneuvers, speeds, useful load, and aircraft design weights which are to be
+    considered for structural design and sizing
+" The SDC include the V-n diagram (Flight Envelope)
+   V: aircraft speed
+   n: load factor (follows next)
+" The V-n diagram is very important for both the design and the operation of an aircraft  explained next
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                  87
+
+Page 29:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads  V-n diagram  Load Factor n
+" Definition: In aeronautics, the load factor is the ratio of the lift of an aircraft to its weight and represents a global
+  measure of the ("load") to which the structure of the aircraft is subjected:
+                                                                             5Y5V5S5a      5?
+                                                                 5[5g =                =
+                                                                        5V5[5R5_5a5V5N 5S5\5_5P5R 5Z  5T
+                                                5e                   59          595f
+" This principle is extended to the axes: 5[5e = 5Z5T , 5[5f = 5Z5T
+" Terminology of Loads:
+   Limit Load: Maximum expected load during operation,
+    no permanent structural deformation or damage allowed
+   Ultimate Load: Maximum structural load above which
+    structural failure can occur UL = LL ∑ design safety factor
+   Generally, design safety factor = 1.5
+   Between limit load and ultimate load local damages
+    and permanent deformations are allowed
+                                                                                              https://en.wikipedia.org/wiki/File:Load_factor_in_a_turn.gif
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                               88
+
+Page 30:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads  V-n diagram
+" In aerospace engineering V-n diagram, also called flight envelope, of an aircraft or spacecraft refers to the
+  capabilities of a design in terms of airspeed and load factor.
+
+                                                                           ultimate load factor
+                                                                                                                                                         5I5F : stall speed
+
+                                                                                                                                                         5I54 : design maneuver speed
+                                load factor 5[5g
+
+                                                                       limit load factor (5[5g limited                                                                 American Airlines Flight 587
+                                                                       by pilots maneuvers)                                                             5I5P : design cruise speed
+                                                                  5è5œ
+
+                                                                                                                                                         5I57 : design dive speed
+                                                 positive stall
+                                                 (5[5g limited by
+                                                                                                                                                         According to CS25.333:
+
+
+
+
+                                                                                                                                 flutter or divergence
+                                                  565?,max )
+
+
+
+
+                                                                                                             design dive speed
+                                                                                                                                                                  5I5P < 0.8 5I57
+                                                                                                                                                               5I57 > 5I5P + 0.05 5@5N
+                                                                            level flight
+                                1
+
+                                                         5I5F        5I54                        5I5P             5I57                   VEAS
+                                                                                                       5è5—
+                              -1                  negative
+                                                  stall
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                                                                      89
+
+Page 31:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads  V-n diagram  Load Factor n
+" Because the air density varies with altitude and compressibility the V-n diagram is defined for each critical
+  combinations of altitude and weight
+
+                                                                                               normal             aerobatics
+
+                                                                               5[1      2.1 + 24000 / (W +10000)      6.0
+
+
+                                                                                5[3              1.0                 -3.0
+
+
+
+                                                                             " 5[1 is dependent on weight (W in lb), the
+                                                                                lighter the aircraft is the higher can be the
+                                                                                Limit Load Factor.
+                                                                             " 5[1 e 2.5
+                                                                             " 5[1 d 3.8
+
+                                                                             " For each flap setting, a specific maneuver V-n
+                                                                               diagram has to be created, to account for
+                                                                               different speed and load factor limitations
+
+                                                                             " The structure has to be designed for all load
+                                                                               cases within the boundary of the V-n diagrams
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                  90
+
+Page 32:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads  Definition of Load Cases
+Manoeuvre Load Cases (Steady)
+" Theoretically, for each point in the V-n diagram
+  all possible combinations of
+   Weight (mass configuration), speed and altitude
+   (dynamic pressure) and load factor has to be examined
+  Additionally, to the symmetrical manoeuvres the
+   combination with roll and yaw has to be examined as well
+  A huge amount of load cases is set up and analysed
+
+
+
+
+                                                                Each load case is defined through 6
+                                                                accelerations (sometimes also 3 rates)
+                                                                These need to get trimmed!
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                            91
+
+Page 33:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads  Gust                                                                                            5?
+
+Change of the load factor due to vertical gust:                                                                  5?
+          5?                                                                                       5d5T5b5`5a
+5[5g =                                                                                         5¸
+          5Z5T                                                                                 5I
+
+
+
+Gust modelling:                                                                                                         5I
+                                                            5I            H                    5I               5d5T5b5`5a
+
+                                                    5d5T5b5`5a                             5d5T5b5`5a
+
+
+
+
+                                sharp edge gust                              ramped gust
+                                                                                                           1-cos gust
+For a sharp edge gust:
+                   5                                                        5d5T5b5`5a                                5
+              î5? = 5I 2  5F  565?5¸  î5¸                                  î5¸ =        5`5Z5N5Y5Y 5N5[5T5Y5R5`           î5? =  5F  565?5¸  5I  5d5T5b5`5a
+                   2                                                          5I                                  2
+                                                                                           5
+                                                                                              5d5T5b5`5a  5F  565?5¸
+                        5[5g = 5[5g,5a5_5V5Z + 5[5g                              5[5g = 1 + 5[5g = 1 + 2                   5I
+                                                                                                  5J
+                                               Assuming level flight
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                         92
+
+Page 34:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Aircraft Loads  Gust V-n Diagram
+" Gust load factor is directly proportional to airspeed for a given gust speed
+                           5F
+                             5ò
+                           5– 5n5ñ5î5ï
+                                  5z5j5s56
+  5è5õ (5}) = 5œ +                                 5}
+
+
+
+
+                                                                   load factor 5[5g
+                                     5~
+" Leading to a speed limit for operation in rough air                                         20 m/s          16 m/s
+
+" For each design weight W, a specific gust v-n diagram
+  must be created                                                                                                       8 m/s
+
+                       5~
+" With 5ò5s = 5z the wing loading:
+                           5F
+                            5ò   5j
+                           5– 5n5ñ5î5ï 5s56
+  5è5õ (5}) = 5œ +                                 5}
+                                   5ò5s
+" The lower the wing loading (high aspect                                           5I5F   5I55             5I5P         5I57
+                                                                                                                          VEAS
+  ratio wings) the higher the gust effect!                                                                              -8 m/s
+
+
+
+
+                                                                                                         -16 m/s
+                                                                                              -20 m/s
+
+                                                                  5I55 : design speed for maximum gust intensity
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                   93
+
+Page 35:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Aircraft Loads  Gust V-n Diagram
+Superimposing the gust and manoeuvre V-n diagrams reveals areas where gust is design-driving
+
+
+
+
+                                                         load factor 5[5g
+                                                                                    20 m/s          16 m/s
+
+
+
+
+                                                                                                              8 m/s
+
+
+
+
+                                                                                                                       Qualitative diagram only!
+
+
+                                                                          5I5F   5I55                               VEAS
+                                                                                              5I5P         5I57
+                                                                                                              -8 m/s
+
+
+
+
+                                                                                               -16 m/s
+                                                                                    -20 m/s
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                      94
+
+Page 36:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+                                                                Landing Gear Loads
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                        95
+
+Page 37:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Landing Gear Loads
+" In certification requirements the landing gear load cases are subdivided into the two categories:
+   Landing impact
+   Other ground handling: taxi, take-off and landing roll, braked roll, turning, jacking, towing
+" In course of this lecture Landing load cases will be discussed in more detail
+" European certification requirements can be found on the EASA (European Union Aviation Safety Agency) website:
+   CS 25 Large Aeroplanes:
+    https://www.easa.europa.eu/en/document-library/certification-specifications/cs-25-amendment-27
+   CS-23 Normal, Utility, Aerobatic and Commuter Aeroplanes:
+    https://www.easa.europa.eu/en/document-library/certification-specifications/cs-23-amendment-5-and-amc-
+    gm-cs-23-issue-3
+
+
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                96
+
+Page 38:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Landing Loads
+" Landing conditions are described in certification requirements e.g., CS 25.471 to 25.487
+   Level landing conditions:
+    o Three-point landing
+    o Two-point landing
+    o One-point landing
+   Taildown condition
+" The design limit descent velocity (sink rate)
+   is 3.05m/s (10 fps) at landing weight or
+   1.83 m/s (6 fps) at maximum take of weight
+" Airplane lift, not exceeding airplane weight, may be assumed
+" The method of analysis of landing gear loads must take into account
+   landing gear dynamic characteristics,
+   spin up and spring back,
+   the rigid-body response, and
+   the structural dynamic response of the airframe if significant
+" The coefficient of friction between the tires and the ground may be considered 0.8
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                97
+
+Page 39:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Landing Speeds
+" Landing speeds per CS 25.479(a) are specified to bound the possible operation of the aircraft as follows:
+   Landing speed at a standard day at sea level:
+                                                                5I5Y5N5[5Q5V5[5T,5`5Q = 5I5?1 = 5I5`5\ + 5I5a5d
+   Where,
+   5I5`5\ is the airplane stall speed for a standard day at sea level with the flaps in landing configuration
+  Landing speed at a hot day with 22.8∞C above standard day temperature and the highest altitude the airplane
+   will be certified to land at:
+                                 5I5Y5N5[5Q5V5[5T,5Q = 1.25 5I5?2 + 5I5a5d
+                                 Where,
+                                 5I5?2 is the airplane stall speed for a hot day (above mentioned conditions)
+
+
+    5I5a5d is the aircraft tail winds
+    o = 0 for aircraft certified for tail winds of 19km/h (10 kn) or less
+    o 5I5a5d = when the airplane is to be certified for tail winds greater than 19km/h (10 kn)
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                    98
+
+Page 40:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Landing Speeds
+" Effect of hot day and altitude on landing speed:
+                                                                                  1         1
+                                                                             50   2   5G5;57   2
+                                                                 5I5?2 = 5I5`5\
+                                                                             5         5G0
+  With,
+
+   5I5`5\ is stall speed at sea level and standard day
+
+   50 is density at standard day conditions
+
+   5 is density at maximum altitude
+
+   5G0 is temperature at standard conditions
+
+   5G5;57 is temperature at hot day conditions (5G0 + 22.8∞56)
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                  99
+
+Page 41:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Standard day (air) parameters
+" Temperature (T): 15 ∞C (59 ∞F)
+" Density (¡): 1.225 kg/m3 (0.00237 slug/ft3)
+" Pressure (p): 101.325 kPa (14.7 lb/ in2), 1 atm
+" Viscosity (º): 17.3 ºN∑s/m2 (3.62 ◊ 107 lb s/ft2)
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design   100
+
+Page 42:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Two-Point Landing Conditions
+" An attitude in which the main wheels are assumed to contact the ground with the nose wheel just clear of the
+  ground
+" Two-point landing provides the maximum loads at main landing gear
+
+                                              Z
+
+
+
+                                                  Y
+
+
+                                                                                                                                        X
+
+
+
+
+                                                                Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                101
+
+Page 43:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Two-Point Landing  Loads Analysis
+" Equilibrium in Z
+  √ 595g = 0: 5I5@5: = 5[5g  5J  5?
+
+" Assuming 5J = 5? (CS25.473(b))
+                                      yields         5@5:    5I
+  5I5@5: = 5J 5[5g  1                               î5[5g = 5J
+
+" Equilibrium in X
+  √ 595e = 0: 575@5: = 5[5e  5J  57  5G5R5[5T
+
+" Assuming 5G5R5[5T = 57
+       5@5:   57
+  5[5e = 5J
+
+
+
+
+                                                                 Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                 Theory and Practice
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                102
+
+Page 44:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Two-Point Landing  Loads Analysis
+" Moment equilibrium around centre of gravity:
+  √ 5@5P5T = 0: 5<5f  57 = 55  5I5@5: + 585N5e  575@5: 585G  5G5R5[5T
+       555I5@5: +585N5e 575@5: 585G 5G5R5[5T
+  57 =             5<           5f
+
+  with,
+  585N5e = 58  5_
+  5_ is the rolling radius of the wheels
+  5<5f is the mass rotational moment of inertia around Y
+
+" By neglecting the engine thrust, the resulting pitching acceleration will be conservative
+
+
+
+
+                                                                 Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                 Theory and Practice
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                103
+
+Page 45:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Two-Point Landing  Loads Analysis
+" Vertical landing loads
+                        5I
+   5[5g = 1 + 5J
+             5@5:
+                                                                 drop test
+
+
+
+
+     5I5@5: the landing gear reaction force is obtained from drop test or dynamic analysis
+
+
+
+
+   Through selection of landing gear, the design 5[5g can be chosen and accordingly the vertical landing loads 5I5@5:
+
+                                                                             Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                             Theory and Practice
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                            104
+
+Page 46:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Two-Point Landing  Loads Analysis
+" Horizontal landing loads:
+  According to the certification requirements (CS 25.479 (d)(1)) the drag load acting on the main landing gear is
+  equal to 0.25 of the maximum vertical ground reaction
+                57            0.255I5@5:
+   5[5e = 5J
+         5@5:
+            =                         = 0.25  5[5g
+                                5J
+
+   5[5e = 0.25 5[5g  1
+
+" Pitching acceleration:
+  By neglecting the thrust term
+      5I  55+0.25585N5e
+  57 = 5@5: 5<
+                       5f
+
+
+
+
+                                                                 Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                 Theory and Practice
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                106
+
+Page 47:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Two-Point Landing  Loads Analysis
+" Summary
+                                      5I
+  Choose 5[5g = 1 + 5J
+                   5@5:
+                      depending on your landing gear
+  Compute 5I5@5:
+  5[5e = 0.25 5[5g  1
+       5I  55+0.25585N5e
+  57 = 5@5: 5<
+                          5f
+
+  Lift (and drag if required) according to altitude (airport), landing speed and trimming
+    o Landing at standard day conditions and sea level (5I5Y5N5[5Q5V5[5T,5`5Q based on VL1)
+    o Landing at hot day conditions and highest altitude airport (5I5Y5N5[5Q5V5[5T,5Q based on VL2)
+
+
+
+
+                                                                                Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                                Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                                107
+
+Page 48:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Three-Point Landing Conditions
+" An attitude whereby the nose and main gears contact the runway simultaneously
+" Three-point landing provides the maximum loads at the nose gear
+
+                                              Z
+
+
+
+                                                  Y
+
+
+                                                                                                                                            X
+
+                                                                C
+
+
+
+
+                                                                    Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                    Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                    108
+
+Page 49:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Three-Point Landing  Loads Analysis
+" Equilibrium in Z
+  √ 595g = 0: 5I5@5: + 5I5A5: = 5[5g 5J  5?
+
+" Assuming 5J = 5? (CS25.473(b))
+  5I5@5: + 5I5A5: = 5J 5[5g  1
+                    5I5@5: +5I5A5:
+  5[5g = 1 +             5J
+
+" Equilibrium in X
+  √ 595e = 0: 575@5: + 575A5: = 5[5e 5J  57  5G5R5[5T
+
+" Assuming 5G5R5[5T = 57
+            575@5: +575A5:
+  5[5e =         5J
+
+
+
+                                                                 Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                 Theory and Practice
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                109
+
+Page 50:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Three-Point Landing  Loads Analysis
+" Moment equilibrium around centre of gravity:
+ √ 5@5P5T = 0: 5I5A5:  56  575A5:  585A5:5N = 55  5I5@5: +585@5:5N  575@5: 585G  5G5R5[5T
+
+
+
+
+ with,
+ 585A5:5N = 58  5_5A5:
+ 585@5:5N = 58  5_5@5:
+ 5_5A5: , 5_5@5: are the rolling radii of the wheels
+
+
+" Engine thrust is assumed to be equal the drag D for landing conditions
+
+
+
+                                                                Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                110
+
+Page 51:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Three-Point Landing  Loads Analysis
+" In order to solve for the nose landing gear load, following assumptions are made:
+
+  During the landing, thrust equals drag
+
+  The pitching moment due to engine thrust may be neglected
+
+  According to certification (CS 25.479 (d)(1)) landing gear drag is assumed 0.25 the vertical loading
+   5[5e = 0.25 5[5g  1
+   575A5: = 0.25  5I5A5:
+
+  Inserting into the moment equilibrium equation leads to
+   5I5A5:  56  0.25  585A5:5N = 5I5@5:  55 + 0.25  585@5:5N
+                                              59
+    5I5A5: = 5[5g  1  5J 1+59
+             55+0.2558
+    59 = 560.25585@5:5N
+                            5A5:5N
+
+                                                                Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                111
+
+Page 52:
+       Department of Aerospace and Geodesy
+       TUM School of Engineering and Design
+       Technical University of Munich
+
+
+
+
+Three-Point Landing  Loads Analysis
+" Summary
+
+  Chose 5[5g depending on your landing gear (see table above)
+
+  5[5e = 0.25 5[5g  1
+                                              59
+  5I5A5: = 5[5g  1  5J 1+59
+                      55+0.2558
+    with 59 = 560.25585@5:5N
+                                     5A5:5N
+
+
+  Lift (and drag if required) according to altitude (airport), landing speed and trimming
+
+    o Landing at standard day conditions and sea level (5I5Y5N5[5Q5V5[5T,5`5Q based on VL1)
+
+    o Landing at hot day conditions and highest altitude airport (5I5Y5N5[5Q5V5[5T,5Q based on VL2)
+
+
+                                                                Ref: T. Lomax: Structural Loads Analysis for Commercial Transport Aircraft
+                                                                Theory and Practice
+
+
+Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                                                112
+
+Page 53:
+        Department of Aerospace and Geodesy
+        TUM School of Engineering and Design
+        Technical University of Munich
+
+
+
+
+Landing Gear Loads - Overview
+" In the course of this lecture the level landing with two-point and three-point conditions has been discussed
+" Analogue following loading conditions must be analysed for certification (out of scope of this lecture):
+   Taildown
+   Spin-up and spring-back
+   One-point (one-gear) landing
+   Side load
+   Rebound landing
+   Ground handling: taxi, take-off and landing roll, braked roll, turning, jacking, towing
+" It is important to mention that the landing load calculations presented within this lecture are based on simplified
+  methods and can be used in early design phases
+" In later design phases more sophisticated simulations based on multi-body structure-aerodynamic coupled
+  analysis are performed (with landing gear model in the loop)
+
+
+
+
+ Aerospace Structures  WS24-SS25  Aerospace Structure Design                                                     113
+
