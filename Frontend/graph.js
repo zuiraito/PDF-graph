@@ -18,6 +18,9 @@ svg.call(
     })
 );
 
+// Define a maximum link length
+const MAX_LINK_LENGTH = 200; // Example: Set maximum length to 200px
+
 // Function to load and draw the graph
 function loadGraph() {
   // Clear any existing graph elements
@@ -52,7 +55,17 @@ function loadGraph() {
 
     // Create a force simulation
     const simulation = d3.forceSimulation(graphData.nodes)
-      .force("link", d3.forceLink(links).id(d => d.id).distance(150))
+      .force("link", d3.forceLink(links)
+        .id(d => d.id)
+        .distance(link => {
+          // Calculate a dynamic length but enforce a maximum limit
+          const baseDistance = 100; // Default distance
+          const targetConnections = link.target.connections?.length || 0;
+          const sourceConnections = link.source.connections?.length || 0;
+          const dynamicDistance = baseDistance + Math.min(targetConnections, sourceConnections) * 10;
+
+          return Math.min(dynamicDistance, MAX_LINK_LENGTH); // Enforce maximum length
+        }))
       .force("charge", d3.forceManyBody().strength(-800))
       .force("center", d3.forceCenter(width / 2, height / 2));
 
@@ -75,16 +88,46 @@ function loadGraph() {
         .on("end", dragEnd)
       );
 
-    // Create circle for each node
+    // Create circles for each node with dynamic radius based on the number of connections
     node.append("circle")
-      .attr("r", 20)
-      .attr("fill", d => d.color || "steelblue"); // Use gray for missing nodes
+      .attr("r", d => {
+        const connectionCount = d.connections?.length || 0;
+        return connectionCount > 0 ? 10 + connectionCount * 1.2 : 10;
+      })
+      .attr("fill", d => d.color || "teal");
 
     // Add text to the nodes
     node.append("text")
       .attr("dx", 25)
       .attr("dy", 5)
       .text(d => d.id);
+
+    // Add click event for node selection
+    node.on("click", (event, d) => {
+      // Highlight the selected node and its connections
+      node.selectAll("circle").attr("stroke", null).attr("fill", d => d.color || "teal");
+      link.attr("stroke", "#aaa").attr("stroke-width", 2); // Reset all links
+
+      // Highlight the selected node
+      d3.select(event.currentTarget).select("circle").attr("fill", "red").attr("stroke-width", 3);
+
+      // Highlight links connected to the selected node with increased intensity
+      link.filter(l => l.source.id === d.id || l.target.id === d.id)
+        .attr("stroke", "red").attr("stroke-width", 4);
+
+      // Center the selected node by removing the global centering force and applying a custom attraction force
+      updateForces(d);
+    });
+
+    // Function to update forces when a node is selected
+    function updateForces(selectedNode) {
+      simulation
+        .force("center", null) // Remove global centering force
+        .force("attractToNode", d3.forceManyBody()
+          .strength((node) => (node.id === selectedNode.id ? -500 : -5))) // Strong attraction for the selected node
+        .alpha(1) // Reset alpha to apply changes
+        .restart();
+    }
 
     // Update positions of nodes and links based on the simulation
     simulation.on("tick", function() {
@@ -115,6 +158,17 @@ function loadGraph() {
       d.fx = null;
       d.fy = null;
     }
+
+    // Deselect all nodes when clicking on the background
+    svg.on("click", function(event) {
+      if (event.target === svg.node()) {
+        // Reset all node highlights and link styles
+        node.selectAll("circle").attr("stroke", null).attr("fill", d => d.color || "gray");
+        link.attr("stroke", "#aaa").attr("stroke-width", 2); // Reset all links
+        simulation.force("center", d3.forceCenter(width / 2, height / 2)); // Reapply centering force
+        simulation.alpha(1).restart(); // Restart simulation to re-center
+      }
+    });
 
   }).catch(function(error) {
     console.error("Error loading the graph data: ", error);

@@ -1,6 +1,5 @@
 {
     "nodes": [
-
         {
             "connections": [],
             "id": "Chapter 4",
@@ -356,10 +355,6 @@
             ],
             "id": "Aerospace Structure Concept \u0013 Major Interfaces",
             "page": 30
-	},
-	{ 
-		"id": "endnode", "connections": []
         }
     ]
 }
-
