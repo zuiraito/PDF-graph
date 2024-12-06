@@ -1,4 +1,4 @@
-A program to visualize PDFs of specificly lectures in a navigatable graph
+A program to visualize PDFs of specificly lectures in a navigatable graph.
 ![image](https://github.com/user-attachments/assets/e6987914-a7ee-420f-85f9-81ac514e308d)
 
 # Usage
