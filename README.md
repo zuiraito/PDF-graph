@@ -1,3 +1,6 @@
+A program to visualize PDFs of specificly lectures in a navigatable graph
+![image](https://github.com/user-attachments/assets/e6987914-a7ee-420f-85f9-81ac514e308d)
+
 # Usage
 1. Save the pdf files into the Data directory.
 2. Execute ./quick_launch.
