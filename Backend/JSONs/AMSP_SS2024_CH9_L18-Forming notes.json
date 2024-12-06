@@ -1,0 +1,1038 @@
+{
+    "nodes": [
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites",
+                "fundamentals",
+                "applications",
+                "defects"
+            ],
+            "id": "1.                Fundamentals of Materials Science and Processes",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "bernierinc",
+                "mitsch",
+                "blechbearbeitung",
+                "abkanten",
+                "thyssenkrupp",
+                "solutions",
+                "atngmbh",
+                "verfahren",
+                "kleben",
+                "aeroreport",
+                "aviation",
+                "rapiddirect",
+                "blog",
+                "metals",
+                "produkte",
+                "technologies",
+                "flugzeuge",
+                "lackiert",
+                "waterjet",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "properties",
+                "deformation"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "elongation",
+                "elongation",
+                "elongation",
+                "necking"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "elatic",
+                "deformation",
+                "deformation"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "crni",
+                "mgsi",
+                "cupper",
+                "elongation"
+            ],
+            "id": "Classification of Processes - DIN 8580",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "metalworking",
+                "walzen",
+                "tiefziehen",
+                "biegen",
+                "verschieben",
+                "tiefen",
+                "cken",
+                "freiformen",
+                "schmiedn",
+                "weiten",
+                "extrusion",
+                "durchziehen",
+                "rohrbiegen",
+                "verdrehen",
+                "ngen",
+                "kragenziehen"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (1)",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "categorization",
+                "temperatures",
+                "recrystallization",
+                "recrystallization",
+                "deformation",
+                "sheets",
+                "strips",
+                "coils"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (2)",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "asme",
+                "deformation",
+                "extrusion",
+                "knurling",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "electrohydaulic",
+                "foil",
+                "seaming"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (3)",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "cblade",
+                "chinahsdz",
+                "blades"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (1)",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites",
+                "workpiece",
+                "workpiece",
+                "workpiece",
+                "flashless",
+                "platens",
+                "restriction",
+                "flashless",
+                "cavity"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (2)",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "ejection",
+                "details"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (3)",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "presses",
+                "hammers",
+                "alamy",
+                "hammers",
+                "quantities",
+                "airframe",
+                "hammers",
+                "workpiece",
+                "deformation",
+                "deformation",
+                "deformation",
+                "anvil",
+                "presses",
+                "machines",
+                "tolerance",
+                "presses",
+                "mechanisms",
+                "hammers"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (4)",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "presses",
+                "precision",
+                "properties",
+                "zskg",
+                "xkar",
+                "skilllync"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (5)",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "extrusion",
+                "workpiece",
+                "advantages",
+                "extrusion",
+                "properties",
+                "container",
+                "extrusion",
+                "tolerances",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "billet",
+                "extrusion",
+                "friction",
+                "billet",
+                "container",
+                "walls",
+                "billet",
+                "friction",
+                "extrusion",
+                "friction",
+                "billet",
+                "defects"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (1)",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "examples",
+                "holder",
+                "billet",
+                "container",
+                "profiles",
+                "extrusion",
+                "discs"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (2)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "extrusion",
+                "advantages",
+                "drawbacks",
+                "setup",
+                "reductions",
+                "deformation",
+                "extrusion",
+                "extrusion",
+                "metals",
+                "youtu",
+                "sedx",
+                "extrusion",
+                "extrusion",
+                "strokes",
+                "billet",
+                "extrusion",
+                "extrusion",
+                "combination",
+                "extrusion",
+                "walls",
+                "extrusion"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (3)",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "workpiece",
+                "slab",
+                "slab"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (1)",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "roller",
+                "workpiece",
+                "walzenirle",
+                "produkte",
+                "walzen",
+                "stahlindustrie",
+                "profilstahl",
+                "bolts",
+                "blog",
+                "graphskill"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (2)",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "arrangement",
+                "rollers",
+                "quatro",
+                "sexto",
+                "rollers",
+                "rollers",
+                "steels",
+                "roller",
+                "rollers"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (3)",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "examples",
+                "profiled"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (4)",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "profiled",
+                "profiled",
+                "rollers",
+                "disks",
+                "blanks",
+                "profiled",
+                "rollers",
+                "rings",
+                "diameters",
+                "centimeters",
+                "meters"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (5)",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "cantilever",
+                "sides",
+                "flatness",
+                "accuracy",
+                "directions",
+                "distortion"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (1)",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "hemming",
+                "seaming",
+                "burred",
+                "appearance",
+                "rigidity",
+                "hems",
+                "curls",
+                "cams",
+                "drums"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (2)",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "dreamstime",
+                "machines",
+                "indiamart",
+                "proddetail",
+                "indiamart",
+                "components"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (3)",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites",
+                "physics",
+                "thefabricator",
+                "thefabricator",
+                "bender",
+                "bender",
+                "onto",
+                "wiper",
+                "rotation",
+                "friction"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Metal (4)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "defects",
+                "wrinkling",
+                "springback",
+                "defects",
+                "tubes",
+                "mandrel",
+                "wrinkling",
+                "occures",
+                "stability",
+                "walls",
+                "limitation",
+                "wrinkling",
+                "mandrel",
+                "wiper",
+                "walls",
+                "tubes",
+                "tools",
+                "springback",
+                "degrees",
+                "tools",
+                "overbending",
+                "springback"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Metal (5)",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "blankholder",
+                "workpiece",
+                "blankholder",
+                "holder",
+                "workpiece",
+                "friction",
+                "holder",
+                "lubricants",
+                "friction",
+                "portion",
+                "contacts",
+                "remainder",
+                "sidewall",
+                "segments",
+                "parallelside",
+                "flange",
+                "blankholder",
+                "wrinkles",
+                "rearranges",
+                "flange",
+                "sidewall"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (1)",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "consumption",
+                "quantities",
+                "tooling",
+                "setup",
+                "galfan",
+                "rqsi",
+                "artizono",
+                "drawability",
+                "flange",
+                "sidewall",
+                "deformation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (2)",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "drawability"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (3)",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "defects",
+                "flange",
+                "wrinkling",
+                "wrinkling",
+                "earing",
+                "scratches",
+                "wrinkling",
+                "phenomena",
+                "deformation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (4)",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "simulation",
+                "simulation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (5)",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "techniques"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Stretch Forming (1)",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "contours",
+                "reentrant",
+                "springback",
+                "edges",
+                "aluminum",
+                "titanium",
+                "nafd",
+                "miltonmfg",
+                "thermalengineering",
+                "capabilities"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Stretch Forming (2)",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "metalspinningmachine",
+                "components"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Spinning",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "peen",
+                "workpiece",
+                "peening",
+                "deformation",
+                "peen",
+                "workpiece",
+                "specification",
+                "indentations",
+                "indentation",
+                "peened",
+                "contours"
+            ],
+            "id": "9.2.3 Sheet Forming \u0013 Shot Peen Forming (1)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "advantages",
+                "drawbacks",
+                "contours",
+                "reentrant",
+                "springback",
+                "edges",
+                "aluminum",
+                "titanium",
+                "iqvdj",
+                "yrrpls",
+                "dtiai"
+            ],
+            "id": "9.2.3 Sheet Forming \u0013 Shot Peen Forming (2)",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "advantages",
+                "drawbacks",
+                "tooling",
+                "batch",
+                "components",
+                "batch",
+                "sheets",
+                "vacuuming",
+                "customizable",
+                "prototyping",
+                "bubbles",
+                "pmma",
+                "acrylonitrile",
+                "butadiene",
+                "styrene",
+                "vyibsmoiqqs",
+                "polyethylene",
+                "terephthalate",
+                "glycol",
+                "petg",
+                "markoribine",
+                "polystyrene",
+                "polycarbonate",
+                "polypropylene",
+                "polyethylene",
+                "polyvinyl",
+                "chloride"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "diaphragm",
+                "fibers",
+                "textiles",
+                "draping",
+                "diaphragm",
+                "diaphragm",
+                "films",
+                "diaphragm",
+                "friction",
+                "preform",
+                "diaphragm",
+                "onto",
+                "diaphragm",
+                "geometries",
+                "stamps",
+                "binder",
+                "binder",
+                "prepreg",
+                "binder",
+                "diaphragm",
+                "demolding",
+                "demolding",
+                "preform",
+                "diaphragm",
+                "binder",
+                "prepreg"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "diaphragm",
+                "diaphragm",
+                "diaphragm",
+                "diaphragm",
+                "helicopter",
+                "spar",
+                "helicopter",
+                "spar",
+                "airbus"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 46
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "thermoforming",
+                "composites",
+                "consolidation",
+                "preform",
+                "thermoforming"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 47
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "plastictechnologiesinc"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 48
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "advantages",
+                "drawbacks",
+                "tooling",
+                "bottle",
+                "containers",
+                "difficulties",
+                "acrylonitrile",
+                "butadiene",
+                "styrene",
+                "polyethylene",
+                "terephthalate",
+                "polystyrene",
+                "polytekmx",
+                "polycarbonate",
+                "polypropylene",
+                "polyvinyl",
+                "chloride",
+                "hohenhausen",
+                "formenbau",
+                "bottle",
+                "formlabs"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 49
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 50
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "fuselage",
+                "panels",
+                "meters",
+                "aluminum",
+                "alloys",
+                "grouprhodes",
+                "rhodes",
+                "rhodes",
+                "recieve",
+                "fuselage",
+                "panels"
+            ],
+            "id": "9.2.5 Aerospace Applications (1)",
+            "page": 51
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "peen",
+                "intergally",
+                "stiffned",
+                "segments",
+                "lockheed",
+                "bulkhead",
+                "ariane",
+                "ariane",
+                "bulkhead",
+                "segments",
+                "peen"
+            ],
+            "id": "9.2.5 Aerospace Applications (2)",
+            "page": 52
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "applications",
+                "skins",
+                "panels",
+                "headliners",
+                "shrouds",
+                "cwthomas",
+                "markets",
+                "applications",
+                "cpgaero",
+                "components"
+            ],
+            "id": "9.2.5 Aerospace Applications (3)",
+            "page": 53
+        },
+        {
+            "connections": [
+                "composites",
+                "fertigungsverfahren",
+                "umformen",
+                "einordnung",
+                "unterteilung",
+                "begriffe",
+                "alphabetische",
+                "bersicht",
+                "beuth",
+                "gmbh",
+                "faucheux",
+                "gosselin",
+                "vesque",
+                "peen",
+                "eigenstrains",
+                "hilliou",
+                "covas",
+                "nanocomposites",
+                "miguel",
+                "angelo",
+                "parente",
+                "ribeiro",
+                "cerqueira",
+                "nanomaterials",
+                "koehler",
+                "plege",
+                "sahm",
+                "padmapriya",
+                "procedures",
+                "deformation",
+                "deformation",
+                "cerqueira",
+                "nanomaterials"
+            ],
+            "id": "A1 References",
+            "page": 54
+        },
+        {
+            "connections": [
+                "composites",
+                "volk",
+                "umformende",
+                "werkzeugmaschinen",
+                "grundlagen",
+                "lehrstuhl",
+                "umformtechnik",
+                "ereiwesen",
+                "technische",
+                "nchen",
+                "narayanan",
+                "advances",
+                "conference",
+                "aimtdr",
+                "semiatin",
+                "handbook",
+                "metalworking",
+                "semiatin",
+                "metalworking",
+                "charles",
+                "barrett",
+                "peen",
+                "engineers",
+                "handbook",
+                "berger",
+                "hohmann",
+                "schlick",
+                "umformen",
+                "vorlesung",
+                "fertigungstechnologien",
+                "fauenhofer",
+                "igcv",
+                "geng",
+                "formulation",
+                "wrinkling"
+            ],
+            "id": "A1 References",
+            "page": 55
+        },
+        {
+            "connections": [
+                "composites",
+                "temperatures",
+                "characteristics",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "drawbacks",
+                "extrusion",
+                "components",
+                "advantages",
+                "disadvantages",
+                "defects"
+            ],
+            "id": "A2 Study Questions",
+            "page": 56
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "plastics"
+            ],
+            "id": "A2 Study Questions",
+            "page": 57
+        },
+        {
+            "connections": [
+                "composites",
+                "schmieden",
+                "freiformen",
+                "gesenk",
+                "ramming",
+                "stampf",
+                "stanzwerkzeug",
+                "schr",
+                "gwalzen",
+                "gewindewalzen",
+                "saum",
+                "wrinkling",
+                "faltenbildung",
+                "peening",
+                "kugelstrahlen",
+                "bulkhead",
+                "druckschott"
+            ],
+            "id": "A3 Glossary",
+            "page": 58
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 59
+        }
+    ]
+}

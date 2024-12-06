@@ -1,0 +1,629 @@
+{
+    "nodes": [
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites",
+                "motivations",
+                "cradle",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate",
+                "phases",
+                "lcia",
+                "categories"
+            ],
+            "id": "8.1              Life Cycle Assessment",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "phases",
+                "lcia",
+                "assessments"
+            ],
+            "id": "8.1              Life Cycle Assessment",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "sustainability",
+                "baeume",
+                "dauchingen",
+                "verschenken"
+            ],
+            "id": "8.1.1 Introduction (1)",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "8.1.1 Introduction (2)",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "earths"
+            ],
+            "id": "8.1.1 Introduction (3)",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "phases",
+                "aspects"
+            ],
+            "id": "8.1.2 Definition and phases of an LCA (1)",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "phases",
+                "extraction",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate",
+                "gate",
+                "phases"
+            ],
+            "id": "8.1.2 Definition and phases of an LCA (2)",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "cradle",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate"
+            ],
+            "id": "8.1.3 Goal and Scope Definition (1)",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "interactions",
+                "byproducts",
+                "parameters",
+                "boundaries"
+            ],
+            "id": "8.1.3 Goal and Scope Definition (2)",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "disposal",
+                "tools",
+                "preproducts",
+                "electricity"
+            ],
+            "id": "8.1.3 Goal and Scope Definition (3)",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (1)",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "constituent",
+                "constituent"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (2)",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "databases",
+                "witik",
+                "landfilling"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (3)",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "gaps",
+                "sensitivity",
+                "cutoff",
+                "criteria",
+                "fraction",
+                "criteria"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (4)",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "databases",
+                "gabi",
+                "sphera",
+                "simapro",
+                "umberto",
+                "openlca",
+                "elcd",
+                "gabi",
+                "ecoinvent",
+                "probas"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (5)",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "emissions"
+            ],
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (6)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "quantifies",
+                "consequences"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (1)",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "selection",
+                "characterisation",
+                "categories",
+                "acidification",
+                "mechanism",
+                "classification",
+                "allocation",
+                "acidifying",
+                "emissions",
+                "characterisation",
+                "calculation",
+                "acidification",
+                "conversion",
+                "indicators",
+                "normalisation",
+                "aggregation",
+                "indicators",
+                "acidification"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (2)",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "emissions",
+                "classification",
+                "acidification"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (3)",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "categories",
+                "scarcity",
+                "acidification",
+                "ecotoxicity",
+                "ozone",
+                "depletion",
+                "minerals",
+                "metals",
+                "patriculate",
+                "radiation",
+                "ozone",
+                "eutrophication"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (4)",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "contribution",
+                "gases",
+                "radiation",
+                "directions",
+                "dioxide",
+                "oxides",
+                "cfcs",
+                "chlorofluorocarbons"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (5)",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "charts"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (6)",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "acidification",
+                "dioxide",
+                "contribution",
+                "gases",
+                "combination",
+                "quelle",
+                "kreissig",
+                "mmel",
+                "substances",
+                "acidification",
+                "dioxide",
+                "hydrofluoric",
+                "oxides"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (7)",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "emissions",
+                "calculation",
+                "indicators",
+                "classification",
+                "characterisation",
+                "acidification"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (8)",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "normalisation",
+                "aggregation"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (9)",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "lcia",
+                "characterization",
+                "models",
+                "netherlands",
+                "edip",
+                "denmark",
+                "traci",
+                "edip",
+                "denmark",
+                "recipe",
+                "netherlands",
+                "netherlands",
+                "canada"
+            ],
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (10)",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "8.1.6 Interpretation (1)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "patriculate",
+                "acidification",
+                "radiation",
+                "ozone",
+                "eutrophication"
+            ],
+            "id": "8.1.6 Interpretation (2)",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "criteria",
+                "endangerment",
+                "contribution",
+                "patriculate",
+                "acidification",
+                "radiation",
+                "ozone",
+                "eutrophication"
+            ],
+            "id": "8.1.6 Interpretation (3)",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "suggestion",
+                "footprint",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (4)",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "footprint",
+                "suggestion",
+                "footprint",
+                "categories",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "acidification",
+                "ecotoxicity",
+                "eutrophication",
+                "eutrophication",
+                "eutrophication",
+                "ionising",
+                "radiation",
+                "ozone",
+                "depletion",
+                "ozone",
+                "fossils",
+                "minerals",
+                "metals",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (5)                                                                                                Weighting factors (WF) for Environmental Footprint",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "suggestion",
+                "footprint",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "calculation",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (6)",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "models",
+                "haven",
+                "transparency",
+                "databases",
+                "models"
+            ],
+            "id": "8.1.6 Interpretation (7)",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "optimisation"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (1)",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "beverage",
+                "statements",
+                "assumptions",
+                "beverage",
+                "refilling",
+                "bottle",
+                "routes"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (2)",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "comparison",
+                "cfrp",
+                "quasisotropic",
+                "scenario",
+                "cfrp",
+                "scenario",
+                "mileage",
+                "quelle",
+                "leichtbau",
+                "mobilit",
+                "fertigung",
+                "mobil",
+                "baden",
+                "rttemberg"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (3)",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "comparison",
+                "cfrp",
+                "quasisotropic",
+                "scenario",
+                "cfrp",
+                "scenario",
+                "mileage",
+                "quelle",
+                "leichtbau",
+                "mobilit",
+                "fertigung",
+                "mobil",
+                "baden",
+                "rttemberg"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (4)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "boundaries",
+                "horizon",
+                "models",
+                "assumptions"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (5)",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "framework",
+                "hohmann",
+                "einf",
+                "hrung",
+                "werkstoffe",
+                "fertigungstechnologien",
+                "composites",
+                "nchen",
+                "overshootday",
+                "footprintnetwork",
+                "knowsdgs",
+                "europa",
+                "rahn",
+                "methodologies"
+            ],
+            "id": "A1 References",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "cradle",
+                "gate",
+                "gate",
+                "phases",
+                "categories",
+                "gaps"
+            ],
+            "id": "A2 Study Questions",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "kobilanzierung",
+                "sachbilanz",
+                "lcia",
+                "wirkungsbilanz"
+            ],
+            "id": "A3 Glossary",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 46
+        }
+    ]
+}

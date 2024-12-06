@@ -2,360 +2,3050 @@
     "nodes": [
 
         {
-            "connections": [],
-            "id": "Chapter 4",
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
             "page": 1
         },
         {
             "connections": [
-                "torsion",
-                "stiffened",
-                "sandwich",
-                "interfaces"
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
             ],
-            "id": "Content",
+            "id": "Aerospace Materials Science and Processes",
             "page": 2
         },
         {
             "connections": [
-                "recap"
+                "composites"
             ],
-            "id": "Aerospace Structure Elements - Recap",
+            "id": "Content",
             "page": 3
         },
         {
             "connections": [
-                "umbrella",
-                "stringers",
-                "spars",
-                "ribs",
-                "longerons",
-                "interfaces"
+                "composites"
             ],
-            "id": "Aerospace Structure Concept",
+            "id": "Content",
             "page": 4
         },
         {
-            "connections": [],
-            "id": "Load Paths",
+            "connections": [
+                "composites",
+                "motivations",
+                "cradle",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate",
+                "phases",
+                "lcia",
+                "categories"
+            ],
+            "id": "8.1              Life Cycle Assessment",
             "page": 5
         },
         {
             "connections": [
-                "launcher",
-                "aerodynamic",
-                "inertia",
-                "symmetrical",
-                "unsymmetrical",
-                "vtp",
-                "fuselage",
-                "torsion",
-                "aileron",
-                "torsion"
+                "composites",
+                "phases",
+                "lcia",
+                "assessments"
             ],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "id": "8.1              Life Cycle Assessment",
             "page": 6
         },
         {
             "connections": [
-                "airframe"
+                "composites",
+                "sustainability",
+                "baeume",
+                "dauchingen",
+                "verschenken"
             ],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "id": "8.1.1 Introduction (1)",
             "page": 7
         },
         {
-            "connections": [],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "connections": [
+                "composites"
+            ],
+            "id": "8.1.1 Introduction (2)",
             "page": 8
         },
         {
             "connections": [
-                "torsion"
+                "composites",
+                "earths"
             ],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "id": "8.1.1 Introduction (3)",
             "page": 9
         },
         {
-            "connections": [],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "connections": [
+                "composites",
+                "phases",
+                "aspects"
+            ],
+            "id": "8.1.2 Definition and phases of an LCA (1)",
             "page": 10
         },
         {
             "connections": [
-                "trimmed",
-                "fuselage",
-                "fuselage",
-                "fuselage"
+                "composites",
+                "phases",
+                "extraction",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate",
+                "gate",
+                "phases"
             ],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "id": "8.1.2 Definition and phases of an LCA (2)",
             "page": 11
         },
         {
             "connections": [
-                "vtp",
-                "vtp",
-                "fuselage",
-                "htp",
-                "htp",
-                "vtp",
-                "fuselage",
-                "www",
-                "newsamericasnow",
-                "wikimedia"
+                "composites",
+                "cradle",
+                "cradle",
+                "cradle",
+                "gate",
+                "gate"
             ],
-            "id": "Aerospace Structure Concept \u0013 Load Paths",
+            "id": "8.1.3 Goal and Scope Definition (1)",
             "page": 12
         },
         {
             "connections": [
-                "torsion",
-                "stiffened",
-                "sandwich"
+                "composites",
+                "interactions",
+                "byproducts",
+                "parameters",
+                "boundaries"
             ],
-            "id": "Torsion Box, Stiffened Panel, Sandwich",
+            "id": "8.1.3 Goal and Scope Definition (2)",
             "page": 13
         },
         {
             "connections": [
-                "torsion",
-                "torsion",
-                "torsion"
+                "composites",
+                "disposal",
+                "tools",
+                "preproducts",
+                "electricity"
             ],
-            "id": "Aerospace Structure Concept \u0013 Torsion Box",
+            "id": "8.1.3 Goal and Scope Definition (3)",
             "page": 14
         },
         {
             "connections": [
-                "torsion",
-                "flanges"
+                "composites"
             ],
-            "id": "Aerospace Structure Concept \u0013 Torsion Box",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (1)",
             "page": 15
         },
         {
             "connections": [
-                "torsion",
-                "torsion"
+                "composites",
+                "constituent",
+                "constituent"
             ],
-            "id": "Aerospace Structure Concept \u0013 Torsion Box",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (2)",
             "page": 16
         },
         {
             "connections": [
-                "torsion",
-                "torsion",
-                "torsional",
-                "stiffness"
+                "composites",
+                "databases",
+                "witik",
+                "landfilling"
             ],
-            "id": "Aerospace Structure Concept \u0013 Torsion Box",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (3)",
             "page": 17
         },
         {
             "connections": [
-                "stiffened",
-                "transforming",
-                "fuselage",
-                "fuselage",
-                "buckling",
-                "stiffeners",
-                "buckling",
-                "aerotec",
-                "stade"
+                "composites",
+                "gaps",
+                "sensitivity",
+                "cutoff",
+                "criteria",
+                "fraction",
+                "criteria"
             ],
-            "id": "Aerospace Structure Concept \u0013 Stiffened Panels",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (4)",
             "page": 18
         },
         {
             "connections": [
-                "stiffened",
-                "buckling"
+                "composites",
+                "databases",
+                "gabi",
+                "sphera",
+                "simapro",
+                "umberto",
+                "openlca",
+                "elcd",
+                "gabi",
+                "ecoinvent",
+                "probas"
             ],
-            "id": "The Stiffened Panels \u0013 Influence of buckling field width",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (5)",
             "page": 19
         },
         {
             "connections": [
-                "sandwich",
-                "stringer",
-                "stiffened",
-                "sandwich",
-                "sandwich",
-                "skins",
-                "bonded",
-                "skins",
                 "composites",
-                "aluminium",
-                "aramid",
-                "fibreglas",
-                "aluminium",
-                "sandwich",
-                "stiffness",
-                "buckling",
-                "pinterest",
-                "damping",
-                "drawbacks",
-                "sandwich",
-                "consume",
-                "cumbersome",
-                "engineerlive",
-                "electronics",
-                "globalspec",
-                "captures"
+                "emissions"
             ],
-            "id": "Aerospace Structure Concept \u0013 Sandwich",
+            "id": "8.1.4 Life Cycle Inventory \u0013 LCI (6)",
             "page": 20
         },
         {
             "connections": [
-                "empennage",
-                "wingbox",
-                "wingbox",
-                "stiffened",
-                "stringers",
-                "spars",
-                "ribs",
-                "buckling",
-                "stringers",
-                "spars",
-                "stringer",
-                "rib"
+                "composites",
+                "lcia",
+                "quantifies",
+                "consequences"
             ],
-            "id": "Aerospace Structure Concept \u0013 Summary",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (1)",
             "page": 21
         },
         {
             "connections": [
-                "fuselage",
-                "fuselage",
-                "stiffened",
-                "stringers",
-                "stringers",
-                "longerons",
-                "stringer",
-                "longerons"
+                "composites",
+                "lcia",
+                "selection",
+                "characterisation",
+                "categories",
+                "acidification",
+                "mechanism",
+                "classification",
+                "allocation",
+                "acidifying",
+                "emissions",
+                "characterisation",
+                "calculation",
+                "acidification",
+                "conversion",
+                "indicators",
+                "normalisation",
+                "aggregation",
+                "indicators",
+                "acidification"
             ],
-            "id": "Aerospace Structure Concept \u0013 Summary",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (2)",
             "page": 22
         },
         {
             "connections": [
-                "interfaces"
+                "composites",
+                "lcia",
+                "emissions",
+                "classification",
+                "acidification"
             ],
-            "id": "Major Structure Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (3)",
             "page": 23
         },
         {
             "connections": [
-                "interfaces",
-                "interfaces",
-                "fuselage",
-                "www",
-                "youtube",
-                "ydkbg",
-                "ebq",
-                "empennage",
-                "fuselage",
-                "fuselage",
-                "fuselage"
+                "composites",
+                "lcia",
+                "categories",
+                "scarcity",
+                "acidification",
+                "ecotoxicity",
+                "ozone",
+                "depletion",
+                "minerals",
+                "metals",
+                "patriculate",
+                "radiation",
+                "ozone",
+                "eutrophication"
             ],
-            "id": "Aerospace Structure Concept \u0013 Major Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (4)",
             "page": 24
         },
         {
             "connections": [
-                "interfaces",
-                "fuselage",
-                "aviation",
-                "stackexchange",
-                "fuselage",
-                "splice",
-                "www",
-                "compositesworld",
-                "google",
-                "patents"
+                "composites",
+                "lcia",
+                "contribution",
+                "gases",
+                "radiation",
+                "directions",
+                "dioxide",
+                "oxides",
+                "cfcs",
+                "chlorofluorocarbons"
             ],
-            "id": "Aerospace Structure Concept \u0013 Major Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (5)",
             "page": 25
         },
         {
             "connections": [
-                "fuselage",
-                "fuselage",
-                "flugzeugbau",
-                "teil",
-                "seite",
-                "maus",
-                "wdr",
-                "wdrmaus",
-                "htp",
-                "fuselage",
-                "flugzeugbau",
-                "teil",
-                "seite",
-                "maus",
-                "wdr",
-                "wdrmaus",
-                "vtp",
-                "fuselage",
-                "flugzeugbau",
-                "teil",
-                "seite",
-                "maus",
-                "wdr",
-                "wdrmaus"
+                "composites",
+                "lcia",
+                "charts"
             ],
-            "id": "Wing-to-Fuselage interface \u0013 Carry-through concept",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (6)",
             "page": 26
         },
         {
             "connections": [
-                "interfaces",
-                "fuselage",
-                "splice",
-                "www",
-                "betowagner",
-                "eurofighter",
-                "typhoon"
+                "composites",
+                "lcia",
+                "acidification",
+                "dioxide",
+                "contribution",
+                "gases",
+                "combination",
+                "quelle",
+                "kreissig",
+                "mmel",
+                "substances",
+                "acidification",
+                "dioxide",
+                "hydrofluoric",
+                "oxides"
             ],
-            "id": "Aerospace Structure Concept \u0013 Major Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (7)",
             "page": 27
         },
         {
             "connections": [
-                "interfaces"
+                "composites",
+                "lcia",
+                "emissions",
+                "calculation",
+                "indicators",
+                "classification",
+                "characterisation",
+                "acidification"
             ],
-            "id": "Major Interfaces \u0013 Hard Joints",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (8)",
             "page": 28
         },
         {
             "connections": [
-                "interfaces",
-                "htp",
-                "fuselage",
-                "torsion",
-                "fuselage",
-                "pivot",
-                "moveable",
-                "htp",
-                "aviation",
-                "stackexchange",
-                "fuselage"
+                "composites",
+                "lcia",
+                "normalisation",
+                "aggregation"
             ],
-            "id": "Aerospace Structure Concept \u0013 Major Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (9)",
             "page": 29
         },
         {
             "connections": [
-                "interfaces",
-                "vtp",
-                "fuselage",
-                "lugs",
-                "aviation",
-                "stackexchange",
-                "fuselage"
+                "composites",
+                "lcia",
+                "characterization",
+                "models",
+                "netherlands",
+                "edip",
+                "denmark",
+                "traci",
+                "edip",
+                "denmark",
+                "recipe",
+                "netherlands",
+                "netherlands",
+                "canada"
             ],
-            "id": "Aerospace Structure Concept \u0013 Major Interfaces",
+            "id": "8.1.5 Life Cycle Impact Assessment \u0013 LCIA (10)",
             "page": 30
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "8.1.6 Interpretation (1)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "patriculate",
+                "acidification",
+                "radiation",
+                "ozone",
+                "eutrophication"
+            ],
+            "id": "8.1.6 Interpretation (2)",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "criteria",
+                "endangerment",
+                "contribution",
+                "patriculate",
+                "acidification",
+                "radiation",
+                "ozone",
+                "eutrophication"
+            ],
+            "id": "8.1.6 Interpretation (3)",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "suggestion",
+                "footprint",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (4)",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "footprint",
+                "suggestion",
+                "footprint",
+                "categories",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "acidification",
+                "ecotoxicity",
+                "eutrophication",
+                "eutrophication",
+                "eutrophication",
+                "ionising",
+                "radiation",
+                "ozone",
+                "depletion",
+                "ozone",
+                "fossils",
+                "minerals",
+                "metals",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (5)                                                                                                Weighting factors (WF) for Environmental Footprint",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "suggestion",
+                "footprint",
+                "normalisation",
+                "emissions",
+                "inhabitant",
+                "calculation",
+                "sala",
+                "cerutti",
+                "pant",
+                "footprint",
+                "publication",
+                "luxembourg"
+            ],
+            "id": "8.1.6 Interpretation (6)",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "models",
+                "haven",
+                "transparency",
+                "databases",
+                "models"
+            ],
+            "id": "8.1.6 Interpretation (7)",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "optimisation"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (1)",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "beverage",
+                "statements",
+                "assumptions",
+                "beverage",
+                "refilling",
+                "bottle",
+                "routes"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (2)",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "comparison",
+                "cfrp",
+                "quasisotropic",
+                "scenario",
+                "cfrp",
+                "scenario",
+                "mileage",
+                "quelle",
+                "leichtbau",
+                "mobilit",
+                "fertigung",
+                "mobil",
+                "baden",
+                "rttemberg"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (3)",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "comparison",
+                "cfrp",
+                "quasisotropic",
+                "scenario",
+                "cfrp",
+                "scenario",
+                "mileage",
+                "quelle",
+                "leichtbau",
+                "mobilit",
+                "fertigung",
+                "mobil",
+                "baden",
+                "rttemberg"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (4)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "assessments",
+                "boundaries",
+                "horizon",
+                "models",
+                "assumptions"
+            ],
+            "id": "8.1.7 Life cycle assessments in practice (5)",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "framework",
+                "hohmann",
+                "einf",
+                "hrung",
+                "werkstoffe",
+                "fertigungstechnologien",
+                "composites",
+                "nchen",
+                "overshootday",
+                "footprintnetwork",
+                "knowsdgs",
+                "europa",
+                "rahn",
+                "methodologies"
+            ],
+            "id": "A1 References",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "cradle",
+                "gate",
+                "gate",
+                "phases",
+                "categories",
+                "gaps"
+            ],
+            "id": "A2 Study Questions",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "kobilanzierung",
+                "sachbilanz",
+                "lcia",
+                "wirkungsbilanz"
+            ],
+            "id": "A3 Glossary",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "teltschik",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 46
+	},
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness"
+            ],
+            "id": "8.2 Technology Readiness Level (TRL) & Costing",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "nasa",
+                "technologies",
+                "readiness",
+                "trls",
+                "assessments",
+                "maturity",
+                "comparison",
+                "maturity",
+                "trls",
+                "decisions"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Definition",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites",
+                "technologies",
+                "readiness",
+                "technologies",
+                "readiness"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Purpose",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "breadboard",
+                "validation",
+                "breadboard",
+                "validation",
+                "prototype",
+                "demonstration",
+                "prototype",
+                "demonstration",
+                "demonstration"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Assessment",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "innovations",
+                "innovations",
+                "commercialization",
+                "academia",
+                "trls",
+                "valley",
+                "trls",
+                "innovations",
+                "academia",
+                "valley"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 Death of Innovations",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "emergence",
+                "maturity"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 S-Curve Model",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "strategies",
+                "follower",
+                "follower"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 Innovation Strategies",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "financials"
+            ],
+            "id": "8.2.2 Financials in Development \u0013 Operational Performance",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites",
+                "financials",
+                "accountants",
+                "decisions",
+                "meetings",
+                "engineers",
+                "engineers"
+            ],
+            "id": "8.2.2 Financials in Development \u0013 Accounting in Innovation",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "sales",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Types of Costs",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "examples",
+                "doesn"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Examples for Types of Costs",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (1/4)",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "wages",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (2/4)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (3/4)",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (4/4)",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "economies",
+                "strategies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Economies of scale",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "economies",
+                "strategies",
+                "synergies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Economies of scope",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "modularization",
+                "modularization",
+                "variants",
+                "customer",
+                "audi",
+                "tron",
+                "buzz",
+                "cupra",
+                "economies",
+                "volkswagen"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Modularization",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "customization",
+                "batches"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Mass-Customization",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "turnaround",
+                "weeks",
+                "turnaround",
+                "weeks",
+                "prototyping",
+                "complexity",
+                "complexity",
+                "technologies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 3D-Printing & Injection Molding",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "customization",
+                "personalization",
+                "components"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Function Integration",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "tools",
+                "purposes",
+                "purposes",
+                "klein",
+                "lightness"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Lightweight Design (1/2)",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites",
+                "aviation",
+                "aviation"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Lightweight Design (2/2)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "appearance",
+                "cumulated",
+                "disposal",
+                "eklm"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Cost Appearance",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "mistakes",
+                "eklm"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Rule of Ten",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation",
+                "definitions",
+                "contribution",
+                "margin",
+                "utilisation",
+                "efficiency",
+                "defects",
+                "enhancement"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Key Figures and Definitions",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Marginal Costs",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation",
+                "calculation",
+                "calculation",
+                "depreciation",
+                "occupancy"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Machine Costs",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "fabrique",
+                "binder",
+                "resin",
+                "foils",
+                "tacky",
+                "infiltration",
+                "preform",
+                "demoulding",
+                "vari",
+                "cutter",
+                "preformtool"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Process Chain Example",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "unscheduled",
+                "breakdown"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Value Added Time (Milling)",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "efficiency",
+                "breakdown",
+                "unscheduled"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Value Added Time (Milling)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "effectiveness",
+                "availability",
+                "availability",
+                "constraints",
+                "bottlenecks",
+                "shopfloor"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Overall Equipment",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "taiichi",
+                "ohno",
+                "overproduction",
+                "transportation"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 7 Sources of Waste & 5S",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "tools",
+                "vibration",
+                "vibration",
+                "vibration"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Predictive Maintenance",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "complexity",
+                "machines",
+                "factories",
+                "intermidiates",
+                "suppliers"
+            ],
+            "id": "8.2.6 Outlook \u0013 Complexity in Production",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "components",
+                "inhouse",
+                "allocation",
+                "logistics",
+                "logistics"
+            ],
+            "id": "8.2.6 Outlook \u0013 Vertical Integration",
+            "page": 46
+        },
+        {
+            "connections": [
+                "composites",
+                "artley",
+                "applications",
+                "hubs",
+                "applications",
+                "eklm",
+                "ehrlenspiel",
+                "kiewert",
+                "lindemann",
+                "kosteng",
+                "nstig",
+                "entwickeln",
+                "konstruieren",
+                "kosteng",
+                "nstig",
+                "entwickeln",
+                "konstruieren",
+                "attacker",
+                "herbeck",
+                "manufaktur",
+                "produktion",
+                "herausforderungen",
+                "faserkunststoffverbunde",
+                "proceedings",
+                "jaqin",
+                "rozak",
+                "purba",
+                "effectiveness",
+                "transactions",
+                "applications",
+                "mankins",
+                "readiness"
+            ],
+            "id": "A1 References (1/3)",
+            "page": 47
+        },
+        {
+            "connections": [
+                "composites",
+                "littkemann",
+                "innovationscontrolling",
+                "betriebswirtschaftlicher",
+                "gabler",
+                "fachverlage",
+                "gmbh",
+                "mcguigan",
+                "kaysun",
+                "blog",
+                "ohno",
+                "toyota",
+                "puvanasvaran",
+                "alagendran",
+                "efficiency",
+                "procedia",
+                "proeng",
+                "rossini",
+                "valley",
+                "valley",
+                "shingo",
+                "tovota",
+                "viewpoint"
+            ],
+            "id": "A1 References (2/3)",
+            "page": 48
+        },
+        {
+            "connections": [
+                "composites",
+                "tewis",
+                "adoption",
+                "transitionen",
+                "scrumburg",
+                "wordpress",
+                "adoption",
+                "fuer",
+                "transitionen",
+                "readiness",
+                "deskbook",
+                "voigt",
+                "industrielles",
+                "heidelberg"
+            ],
+            "id": "A1 References (3/3)",
+            "page": 49
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "breakeven",
+                "modularization",
+                "majority",
+                "lifecycle",
+                "efficiency",
+                "effectiveness"
+            ],
+            "id": "A2 Study Questions",
+            "page": 50
+        },
+        {
+            "connections": [
+                "composites",
+                "grenzkosten",
+                "umsatz",
+                "spritzguss",
+                "produktionsweg",
+                "contribution",
+                "margin",
+                "deckungsbeitrag",
+                "utilisation",
+                "kapazit",
+                "tsauslastung",
+                "wertsch",
+                "pfende",
+                "fehlerrate",
+                "wertsch",
+                "pfungstiefe",
+                "shopfloor",
+                "fertigung",
+                "werkhalle",
+                "humankapital"
+            ],
+            "id": "A3 Glossary",
+            "page": 51
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 52
+	},
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites",
+                "fundamentals",
+                "defects"
+            ],
+            "id": "1.               Fundamentals of Materials Science and Processes",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "bernierinc",
+                "mitsch",
+                "blechbearbeitung",
+                "abkanten",
+                "thyssenkrupp",
+                "solutions",
+                "atngmbh",
+                "verfahren",
+                "kleben",
+                "aeroreport",
+                "aviation",
+                "rapiddirect",
+                "blog",
+                "metals",
+                "produkte",
+                "technologies",
+                "flugzeuge",
+                "lackiert",
+                "waterjet",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "properties",
+                "deformation"
+            ],
+            "id": "9.1.1 Definition: DIN 8580 - Classification of Processes",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "definitions",
+                "urformen",
+                "pulpy",
+                "vaporous",
+                "deposition",
+                "extrusion",
+                "ceramics",
+                "polymers",
+                "classification"
+            ],
+            "id": "9.1.1 Definitions: DIN 8580 \u0013 Primary Shaping (Urformen)",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites",
+                "guidelines"
+            ],
+            "id": "Content",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "geometries",
+                "cohesion",
+                "produceable"
+            ],
+            "id": "9.1.1 Casting \u0013 Introduction",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "casted",
+                "properties",
+                "blocks",
+                "machinability",
+                "pumps",
+                "conductivity",
+                "ductility",
+                "crankshafts",
+                "machinability"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Casted Iron",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "casted",
+                "vermicular",
+                "properties",
+                "properties",
+                "machinability",
+                "blocks",
+                "temperguss",
+                "cementite",
+                "weldable",
+                "toughness",
+                "chassis",
+                "piston",
+                "rods"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Casted Iron",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "casted",
+                "toughness",
+                "properties",
+                "weldable",
+                "properties",
+                "tailorability",
+                "properties",
+                "casted",
+                "unalloyed",
+                "casted",
+                "casted"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Casted Steel",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "casted",
+                "aluminum",
+                "casted",
+                "aluminum",
+                "alsi",
+                "casted",
+                "aluminum",
+                "casted",
+                "alloying",
+                "tailorability",
+                "properties",
+                "casted",
+                "aluminum",
+                "alsi",
+                "weldable"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Casted Aluminum",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "alloys",
+                "properties",
+                "alloying",
+                "properties",
+                "inconel",
+                "titanium",
+                "alloys",
+                "properties",
+                "alloys",
+                "metals",
+                "machinability",
+                "wikipedia",
+                "druckguss",
+                "datei"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: High Performance Materials",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites",
+                "solidification"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Solidification & Temperature control",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "properties",
+                "elongation",
+                "elongation"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Typical Properties",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "structures",
+                "unalloyed",
+                "cusn",
+                "aluminum",
+                "alsi"
+            ],
+            "id": "9.1.2 Casting \u0013 Materials: Structures",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "criteria",
+                "classification",
+                "complexity",
+                "foam",
+                "applications",
+                "foam"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Overview",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "metals",
+                "tons",
+                "producible",
+                "advantages",
+                "housings",
+                "tooling",
+                "blocks",
+                "bells",
+                "alloys",
+                "metallguss",
+                "steinruecken",
+                "branchenloesungen",
+                "luftfahrt",
+                "raumfahrt",
+                "drawbacks",
+                "youtu",
+                "dpeflnbmt",
+                "accuracy"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Sand Casting",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "feinguss",
+                "creation",
+                "metals",
+                "shellform",
+                "advantages",
+                "valves",
+                "precision",
+                "monocrystalline",
+                "blades",
+                "deforming",
+                "drawbacks",
+                "youtu",
+                "oglujx",
+                "cores",
+                "rentable"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Investment Casting (Feinguss)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "foam",
+                "creation",
+                "metals",
+                "casted",
+                "geometries",
+                "advantages",
+                "beds",
+                "engines",
+                "vaporizing",
+                "casted",
+                "drawbacks",
+                "youtu",
+                "zpoquq",
+                "rentable"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Lost Foam Casting",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "alloys",
+                "advantages",
+                "pistons",
+                "automatable",
+                "housings",
+                "properties",
+                "wikipedia",
+                "kokil",
+                "lengie",
+                "fverfahren",
+                "drawbacks",
+                "molds",
+                "youtu",
+                "fpdsyxzu",
+                "rentable"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Mold Casting",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "alloys",
+                "metals",
+                "advantages",
+                "automatable",
+                "housings",
+                "parameters",
+                "planes",
+                "structures",
+                "tecnopress",
+                "luftfah",
+                "extraction",
+                "drawbacks",
+                "youtu",
+                "tbxgw",
+                "rentable",
+                "machines",
+                "cores",
+                "tools"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Die Casting",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "foam",
+                "metals",
+                "alloys",
+                "monocrystalline",
+                "blocks",
+                "housings",
+                "housings",
+                "blades",
+                "aircrafts"
+            ],
+            "id": "9.1.2 Casting \u0013 Processes: Summary",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "guidelines",
+                "shrinkage",
+                "shrinkage",
+                "feeder",
+                "solidification",
+                "shrinkage",
+                "solidification",
+                "shrinkage",
+                "cavity",
+                "feeder",
+                "separation",
+                "solidification"
+            ],
+            "id": "9.1.2 Casting \u0013 Construction Guidelines: Volume shrinkage",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "guidelines",
+                "defects",
+                "cavities",
+                "warpage",
+                "cracks",
+                "undersize",
+                "inclusions",
+                "porosity",
+                "ereilexikon"
+            ],
+            "id": "9.1.2 Casting \u0013 Construction Guidelines: Casting Defects",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "guidelines",
+                "solidification",
+                "drafts",
+                "accumulation",
+                "deforming",
+                "cavities",
+                "thicknesses",
+                "heuvers",
+                "simplification",
+                "shrinkage",
+                "castings",
+                "simplification",
+                "prevention",
+                "cores"
+            ],
+            "id": "9.1.2 Casting \u0013 Construction Guidelines",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "polymers"
+            ],
+            "id": "Content",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "extrusion",
+                "granulate",
+                "conveyor",
+                "polymers",
+                "funnel",
+                "advantages",
+                "continous",
+                "profiles",
+                "foils",
+                "tubes",
+                "pipes",
+                "precision",
+                "profiles",
+                "drawbacks",
+                "plasticizable",
+                "tooling",
+                "youtu",
+                "fkbkl",
+                "fomby",
+                "geometries",
+                "dimensions",
+                "rentable"
+            ],
+            "id": "9.1.3 Primary Shaping from Plastics \u0013 Extrusion",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "polymers",
+                "advantages",
+                "coverings",
+                "consolidation",
+                "toys",
+                "precision",
+                "drawbacks",
+                "tooling",
+                "youtu",
+                "sqlz",
+                "rentable"
+            ],
+            "id": "9.1.3 Primary Shaping from Plastics \u0013 Injection Molding",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "polymers",
+                "preform",
+                "demolding",
+                "reinforcement",
+                "fibers",
+                "aramid",
+                "advantages",
+                "stringers",
+                "automatable",
+                "drawbacks",
+                "tooling",
+                "youtu",
+                "nzphcjl",
+                "rentable"
+            ],
+            "id": "9.1.3 Primary Shaping from Plastics \u0013 Reinforced Polymers",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "examples"
+            ],
+            "id": "Content",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "layerwise",
+                "complexity",
+                "customization",
+                "personalization",
+                "standards"
+            ],
+            "id": "Traditional Manufacturing",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "youtu",
+                "oasz",
+                "layering",
+                "powder",
+                "trumpf"
+            ],
+            "id": "9.1.4 Additive Manufacturing: Processes \u0013 Selective Laser",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "layering",
+                "youtu",
+                "cuedevi"
+            ],
+            "id": "9.1.4 Additive Manufacturing: Processes \u0013Electronic Beam",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "channels",
+                "inconel",
+                "bracket",
+                "airbus",
+                "channels",
+                "savings",
+                "savings",
+                "savings",
+                "complexity"
+            ],
+            "id": "9.1.4 Additive Manufacturing: Examples from Aerospace",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "showerhead",
+                "rocket",
+                "capability"
+            ],
+            "id": "9.1.4 Additive Manufacturing: Examples from Aerospace",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "bonten",
+                "kunststofftechnik",
+                "einf",
+                "hrung",
+                "grundlagen",
+                "hanser",
+                "nchen",
+                "hanser",
+                "elibrary",
+                "hrig",
+                "polaczek",
+                "michaeli",
+                "handbuch",
+                "urformen",
+                "hanser",
+                "nchen",
+                "hanser",
+                "elibrary",
+                "showbook",
+                "deutsches",
+                "normung",
+                "fritz",
+                "fertigungstechnik",
+                "vieweg",
+                "heidelberg",
+                "applications",
+                "frontiers",
+                "klocke",
+                "fertigungsverfahren",
+                "pulvermetallurgie",
+                "vieweg",
+                "eyerer",
+                "vieweg",
+                "heidelberg",
+                "grundlagen",
+                "ereitechnik",
+                "kompakte",
+                "sentation",
+                "sseldorf"
+            ],
+            "id": "A1 References",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "foam",
+                "advantages",
+                "foam"
+            ],
+            "id": "A2 Study Questions",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "defects",
+                "polymers",
+                "extrusion",
+                "extrusion",
+                "geometries",
+                "directions",
+                "advantages",
+                "drawbacks"
+            ],
+            "id": "A2 Study Questions",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "urformen",
+                "sandguss",
+                "feinguss",
+                "kokillenguss",
+                "druckguss",
+                "feeder",
+                "spei",
+                "cavity",
+                "lunker",
+                "kaltlauf",
+                "spritzguss"
+            ],
+            "id": "A3 Glossary",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "dipl",
+                "wettemann",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 42
+	},
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites",
+                "fundamentals",
+                "applications",
+                "defects"
+            ],
+            "id": "1.                Fundamentals of Materials Science and Processes",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "bernierinc",
+                "mitsch",
+                "blechbearbeitung",
+                "abkanten",
+                "thyssenkrupp",
+                "solutions",
+                "atngmbh",
+                "verfahren",
+                "kleben",
+                "aeroreport",
+                "aviation",
+                "rapiddirect",
+                "blog",
+                "metals",
+                "produkte",
+                "technologies",
+                "flugzeuge",
+                "lackiert",
+                "waterjet",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "cohesion",
+                "properties",
+                "deformation"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "elongation",
+                "elongation",
+                "elongation",
+                "necking"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "elatic",
+                "deformation",
+                "deformation"
+            ],
+            "id": "9.2.1 Classification of Processes - DIN 8580",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "crni",
+                "mgsi",
+                "cupper",
+                "elongation"
+            ],
+            "id": "Classification of Processes - DIN 8580",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "metalworking",
+                "walzen",
+                "tiefziehen",
+                "biegen",
+                "verschieben",
+                "tiefen",
+                "cken",
+                "freiformen",
+                "schmiedn",
+                "weiten",
+                "extrusion",
+                "durchziehen",
+                "rohrbiegen",
+                "verdrehen",
+                "ngen",
+                "kragenziehen"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (1)",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "categorization",
+                "temperatures",
+                "recrystallization",
+                "recrystallization",
+                "deformation",
+                "sheets",
+                "strips",
+                "coils"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (2)",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "asme",
+                "deformation",
+                "extrusion",
+                "knurling",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "electrohydaulic",
+                "foil",
+                "seaming"
+            ],
+            "id": "9.2.1 Classification \u0013 Forming (3)",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "cblade",
+                "chinahsdz",
+                "blades"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (1)",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites",
+                "workpiece",
+                "workpiece",
+                "workpiece",
+                "flashless",
+                "platens",
+                "restriction",
+                "flashless",
+                "cavity"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (2)",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "ejection",
+                "details"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (3)",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "presses",
+                "hammers",
+                "alamy",
+                "hammers",
+                "quantities",
+                "airframe",
+                "hammers",
+                "workpiece",
+                "deformation",
+                "deformation",
+                "deformation",
+                "anvil",
+                "presses",
+                "machines",
+                "tolerance",
+                "presses",
+                "mechanisms",
+                "hammers"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (4)",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "presses",
+                "precision",
+                "properties",
+                "zskg",
+                "xkar",
+                "skilllync"
+            ],
+            "id": "9.2.2 Bulk forming - Forging Processes (5)",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "extrusion",
+                "workpiece",
+                "advantages",
+                "extrusion",
+                "properties",
+                "container",
+                "extrusion",
+                "tolerances",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "billet",
+                "extrusion",
+                "friction",
+                "billet",
+                "container",
+                "walls",
+                "billet",
+                "friction",
+                "extrusion",
+                "friction",
+                "billet",
+                "defects"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (1)",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "examples",
+                "holder",
+                "billet",
+                "container",
+                "profiles",
+                "extrusion",
+                "discs"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (2)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "extrusion",
+                "extrusion",
+                "advantages",
+                "drawbacks",
+                "setup",
+                "reductions",
+                "deformation",
+                "extrusion",
+                "extrusion",
+                "metals",
+                "youtu",
+                "sedx",
+                "extrusion",
+                "extrusion",
+                "strokes",
+                "billet",
+                "extrusion",
+                "extrusion",
+                "combination",
+                "extrusion",
+                "walls",
+                "extrusion"
+            ],
+            "id": "9.2.2 Bulk forming \u0013 Extrusion (3)",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "workpiece",
+                "slab",
+                "slab"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (1)",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "roller",
+                "workpiece",
+                "walzenirle",
+                "produkte",
+                "walzen",
+                "stahlindustrie",
+                "profilstahl",
+                "bolts",
+                "blog",
+                "graphskill"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (2)",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "arrangement",
+                "rollers",
+                "quatro",
+                "sexto",
+                "rollers",
+                "rollers",
+                "steels",
+                "roller",
+                "rollers"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (3)",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "examples",
+                "profiled"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (4)",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "profiled",
+                "profiled",
+                "rollers",
+                "disks",
+                "blanks",
+                "profiled",
+                "rollers",
+                "rings",
+                "diameters",
+                "centimeters",
+                "meters"
+            ],
+            "id": "9.2.2 Bulk forming - Rolling Processes (5)",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "cantilever",
+                "sides",
+                "flatness",
+                "accuracy",
+                "directions",
+                "distortion"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (1)",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "hemming",
+                "seaming",
+                "burred",
+                "appearance",
+                "rigidity",
+                "hems",
+                "curls",
+                "cams",
+                "drums"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (2)",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "dreamstime",
+                "machines",
+                "indiamart",
+                "proddetail",
+                "indiamart",
+                "components"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Sheet Metal (3)",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites",
+                "physics",
+                "thefabricator",
+                "thefabricator",
+                "bender",
+                "bender",
+                "onto",
+                "wiper",
+                "rotation",
+                "friction"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Metal (4)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "defects",
+                "wrinkling",
+                "springback",
+                "defects",
+                "tubes",
+                "mandrel",
+                "wrinkling",
+                "occures",
+                "stability",
+                "walls",
+                "limitation",
+                "wrinkling",
+                "mandrel",
+                "wiper",
+                "walls",
+                "tubes",
+                "tools",
+                "springback",
+                "degrees",
+                "tools",
+                "overbending",
+                "springback"
+            ],
+            "id": "9.2.3 Sheet forming - Bending of Metal (5)",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "blankholder",
+                "workpiece",
+                "blankholder",
+                "holder",
+                "workpiece",
+                "friction",
+                "holder",
+                "lubricants",
+                "friction",
+                "portion",
+                "contacts",
+                "remainder",
+                "sidewall",
+                "segments",
+                "parallelside",
+                "flange",
+                "blankholder",
+                "wrinkles",
+                "rearranges",
+                "flange",
+                "sidewall"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (1)",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "consumption",
+                "quantities",
+                "tooling",
+                "setup",
+                "galfan",
+                "rqsi",
+                "artizono",
+                "drawability",
+                "flange",
+                "sidewall",
+                "deformation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (2)",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "drawability"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (3)",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "defects",
+                "flange",
+                "wrinkling",
+                "wrinkling",
+                "earing",
+                "scratches",
+                "wrinkling",
+                "phenomena",
+                "deformation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (4)",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "simulation",
+                "simulation"
+            ],
+            "id": "9.2.3 Sheet forming - Deep Drawing (5)",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "techniques"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Stretch Forming (1)",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "drawbacks",
+                "contours",
+                "reentrant",
+                "springback",
+                "edges",
+                "aluminum",
+                "titanium",
+                "nafd",
+                "miltonmfg",
+                "thermalengineering",
+                "capabilities"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Stretch Forming (2)",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "examples",
+                "metalspinningmachine",
+                "components"
+            ],
+            "id": "9.2.3 Sheet forming \u0013 Spinning",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "peen",
+                "workpiece",
+                "peening",
+                "deformation",
+                "peen",
+                "workpiece",
+                "specification",
+                "indentations",
+                "indentation",
+                "peened",
+                "contours"
+            ],
+            "id": "9.2.3 Sheet Forming \u0013 Shot Peen Forming (1)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "advantages",
+                "drawbacks",
+                "contours",
+                "reentrant",
+                "springback",
+                "edges",
+                "aluminum",
+                "titanium",
+                "iqvdj",
+                "yrrpls",
+                "dtiai"
+            ],
+            "id": "9.2.3 Sheet Forming \u0013 Shot Peen Forming (2)",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "advantages",
+                "drawbacks",
+                "tooling",
+                "batch",
+                "components",
+                "batch",
+                "sheets",
+                "vacuuming",
+                "customizable",
+                "prototyping",
+                "bubbles",
+                "pmma",
+                "acrylonitrile",
+                "butadiene",
+                "styrene",
+                "vyibsmoiqqs",
+                "polyethylene",
+                "terephthalate",
+                "glycol",
+                "petg",
+                "markoribine",
+                "polystyrene",
+                "polycarbonate",
+                "polypropylene",
+                "polyethylene",
+                "polyvinyl",
+                "chloride"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "diaphragm",
+                "fibers",
+                "textiles",
+                "draping",
+                "diaphragm",
+                "diaphragm",
+                "films",
+                "diaphragm",
+                "friction",
+                "preform",
+                "diaphragm",
+                "onto",
+                "diaphragm",
+                "geometries",
+                "stamps",
+                "binder",
+                "binder",
+                "prepreg",
+                "binder",
+                "diaphragm",
+                "demolding",
+                "demolding",
+                "preform",
+                "diaphragm",
+                "binder",
+                "prepreg"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "diaphragm",
+                "diaphragm",
+                "diaphragm",
+                "diaphragm",
+                "helicopter",
+                "spar",
+                "helicopter",
+                "spar",
+                "airbus"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 46
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "thermoforming",
+                "composites",
+                "consolidation",
+                "preform",
+                "thermoforming"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 47
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "plastictechnologiesinc"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 48
+        },
+        {
+            "connections": [
+                "composites",
+                "plastics",
+                "composites",
+                "advantages",
+                "drawbacks",
+                "tooling",
+                "bottle",
+                "containers",
+                "difficulties",
+                "acrylonitrile",
+                "butadiene",
+                "styrene",
+                "polyethylene",
+                "terephthalate",
+                "polystyrene",
+                "polytekmx",
+                "polycarbonate",
+                "polypropylene",
+                "polyvinyl",
+                "chloride",
+                "hohenhausen",
+                "formenbau",
+                "bottle",
+                "formlabs"
+            ],
+            "id": "9.2.4 Forming Processes of Plastics and Composites",
+            "page": 49
+        },
+        {
+            "connections": [
+                "composites",
+                "classification",
+                "plastics",
+                "composites",
+                "applications"
+            ],
+            "id": "Content",
+            "page": 50
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "fuselage",
+                "panels",
+                "meters",
+                "aluminum",
+                "alloys",
+                "grouprhodes",
+                "rhodes",
+                "rhodes",
+                "recieve",
+                "fuselage",
+                "panels"
+            ],
+            "id": "9.2.5 Aerospace Applications (1)",
+            "page": 51
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "peen",
+                "intergally",
+                "stiffned",
+                "segments",
+                "lockheed",
+                "bulkhead",
+                "ariane",
+                "ariane",
+                "bulkhead",
+                "segments",
+                "peen"
+            ],
+            "id": "9.2.5 Aerospace Applications (2)",
+            "page": 52
+        },
+        {
+            "connections": [
+                "composites",
+                "applications",
+                "applications",
+                "skins",
+                "panels",
+                "headliners",
+                "shrouds",
+                "cwthomas",
+                "markets",
+                "applications",
+                "cpgaero",
+                "components"
+            ],
+            "id": "9.2.5 Aerospace Applications (3)",
+            "page": 53
+        },
+        {
+            "connections": [
+                "composites",
+                "fertigungsverfahren",
+                "umformen",
+                "einordnung",
+                "unterteilung",
+                "begriffe",
+                "alphabetische",
+                "bersicht",
+                "beuth",
+                "gmbh",
+                "faucheux",
+                "gosselin",
+                "vesque",
+                "peen",
+                "eigenstrains",
+                "hilliou",
+                "covas",
+                "nanocomposites",
+                "miguel",
+                "angelo",
+                "parente",
+                "ribeiro",
+                "cerqueira",
+                "nanomaterials",
+                "koehler",
+                "plege",
+                "sahm",
+                "padmapriya",
+                "procedures",
+                "deformation",
+                "deformation",
+                "cerqueira",
+                "nanomaterials"
+            ],
+            "id": "A1 References",
+            "page": 54
+        },
+        {
+            "connections": [
+                "composites",
+                "volk",
+                "umformende",
+                "werkzeugmaschinen",
+                "grundlagen",
+                "lehrstuhl",
+                "umformtechnik",
+                "ereiwesen",
+                "technische",
+                "nchen",
+                "narayanan",
+                "advances",
+                "conference",
+                "aimtdr",
+                "semiatin",
+                "handbook",
+                "metalworking",
+                "semiatin",
+                "metalworking",
+                "charles",
+                "barrett",
+                "peen",
+                "engineers",
+                "handbook",
+                "berger",
+                "hohmann",
+                "schlick",
+                "umformen",
+                "vorlesung",
+                "fertigungstechnologien",
+                "fauenhofer",
+                "igcv",
+                "geng",
+                "formulation",
+                "wrinkling"
+            ],
+            "id": "A1 References",
+            "page": 55
+        },
+        {
+            "connections": [
+                "composites",
+                "temperatures",
+                "characteristics",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "extrusion",
+                "drawbacks",
+                "extrusion",
+                "components",
+                "advantages",
+                "disadvantages",
+                "defects"
+            ],
+            "id": "A2 Study Questions",
+            "page": 56
+        },
+        {
+            "connections": [
+                "composites",
+                "peen",
+                "plastics"
+            ],
+            "id": "A2 Study Questions",
+            "page": 57
+        },
+        {
+            "connections": [
+                "composites",
+                "schmieden",
+                "freiformen",
+                "gesenk",
+                "ramming",
+                "stampf",
+                "stanzwerkzeug",
+                "schr",
+                "gwalzen",
+                "gewindewalzen",
+                "saum",
+                "wrinkling",
+                "faltenbildung",
+                "peening",
+                "kugelstrahlen",
+                "bulkhead",
+                "druckschott"
+            ],
+            "id": "A3 Glossary",
+            "page": 58
+        },
+        {
+            "connections": [
+                "composites",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "mraidi",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 59
 	},
 	{ 
 		"id": "endnode", "connections": []

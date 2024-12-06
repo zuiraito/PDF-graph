@@ -163,7 +163,7 @@ function loadGraph() {
     svg.on("click", function(event) {
       if (event.target === svg.node()) {
         // Reset all node highlights and link styles
-        node.selectAll("circle").attr("stroke", null).attr("fill", d => d.color || "gray");
+        node.selectAll("circle").attr("stroke", null).attr("fill", d => d.color || "teal");
         link.attr("stroke", "#aaa").attr("stroke-width", 2); // Reset all links
         simulation.force("center", d3.forceCenter(width / 2, height / 2)); // Reapply centering force
         simulation.alpha(1).restart(); // Restart simulation to re-center

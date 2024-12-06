@@ -1,0 +1,697 @@
+{
+    "nodes": [
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 1
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 2
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness"
+            ],
+            "id": "Content",
+            "page": 3
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 4
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 5
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness"
+            ],
+            "id": "8.2 Technology Readiness Level (TRL) & Costing",
+            "page": 6
+        },
+        {
+            "connections": [
+                "composites",
+                "nasa",
+                "technologies",
+                "readiness",
+                "trls",
+                "assessments",
+                "maturity",
+                "comparison",
+                "maturity",
+                "trls",
+                "decisions"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Definition",
+            "page": 7
+        },
+        {
+            "connections": [
+                "composites",
+                "technologies",
+                "readiness",
+                "technologies",
+                "readiness"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Purpose",
+            "page": 8
+        },
+        {
+            "connections": [
+                "composites",
+                "breadboard",
+                "validation",
+                "breadboard",
+                "validation",
+                "prototype",
+                "demonstration",
+                "prototype",
+                "demonstration",
+                "demonstration"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 TRL Assessment",
+            "page": 9
+        },
+        {
+            "connections": [
+                "composites",
+                "innovations",
+                "innovations",
+                "commercialization",
+                "academia",
+                "trls",
+                "valley",
+                "trls",
+                "innovations",
+                "academia",
+                "valley"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 Death of Innovations",
+            "page": 10
+        },
+        {
+            "connections": [
+                "composites",
+                "emergence",
+                "maturity"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 S-Curve Model",
+            "page": 11
+        },
+        {
+            "connections": [
+                "composites",
+                "strategies",
+                "follower",
+                "follower"
+            ],
+            "id": "8.2.1 Technology Innovation \u0013 Innovation Strategies",
+            "page": 12
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 13
+        },
+        {
+            "connections": [
+                "composites",
+                "financials"
+            ],
+            "id": "8.2.2 Financials in Development \u0013 Operational Performance",
+            "page": 14
+        },
+        {
+            "connections": [
+                "composites",
+                "financials",
+                "accountants",
+                "decisions",
+                "meetings",
+                "engineers",
+                "engineers"
+            ],
+            "id": "8.2.2 Financials in Development \u0013 Accounting in Innovation",
+            "page": 15
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 16
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "sales",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Types of Costs",
+            "page": 17
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "examples",
+                "doesn"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Examples for Types of Costs",
+            "page": 18
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (1/4)",
+            "page": 19
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "wages",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (2/4)",
+            "page": 20
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (3/4)",
+            "page": 21
+        },
+        {
+            "connections": [
+                "composites",
+                "basics",
+                "calculation",
+                "eklm"
+            ],
+            "id": "8.2.3 Basics of Costs \u0013 Cost Calculation (4/4)",
+            "page": 22
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 23
+        },
+        {
+            "connections": [
+                "composites",
+                "economies",
+                "strategies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Economies of scale",
+            "page": 24
+        },
+        {
+            "connections": [
+                "composites",
+                "economies",
+                "strategies",
+                "synergies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Economies of scope",
+            "page": 25
+        },
+        {
+            "connections": [
+                "composites",
+                "modularization",
+                "modularization",
+                "variants",
+                "customer",
+                "audi",
+                "tron",
+                "buzz",
+                "cupra",
+                "economies",
+                "volkswagen"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Modularization",
+            "page": 26
+        },
+        {
+            "connections": [
+                "composites",
+                "customization",
+                "batches"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Mass-Customization",
+            "page": 27
+        },
+        {
+            "connections": [
+                "composites",
+                "turnaround",
+                "weeks",
+                "turnaround",
+                "weeks",
+                "prototyping",
+                "complexity",
+                "complexity",
+                "technologies"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 3D-Printing & Injection Molding",
+            "page": 28
+        },
+        {
+            "connections": [
+                "composites",
+                "advantages",
+                "customization",
+                "personalization",
+                "components"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Function Integration",
+            "page": 29
+        },
+        {
+            "connections": [
+                "composites",
+                "tools",
+                "purposes",
+                "purposes",
+                "klein",
+                "lightness"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Lightweight Design (1/2)",
+            "page": 30
+        },
+        {
+            "connections": [
+                "composites",
+                "aviation",
+                "aviation"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Lightweight Design (2/2)",
+            "page": 31
+        },
+        {
+            "connections": [
+                "composites",
+                "appearance",
+                "cumulated",
+                "disposal",
+                "eklm"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Cost Appearance",
+            "page": 32
+        },
+        {
+            "connections": [
+                "composites",
+                "mistakes",
+                "eklm"
+            ],
+            "id": "8.2.4 Costs in Engineering \u0013 Rule of Ten",
+            "page": 33
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 34
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation",
+                "definitions",
+                "contribution",
+                "margin",
+                "utilisation",
+                "efficiency",
+                "defects",
+                "enhancement"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Key Figures and Definitions",
+            "page": 35
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Marginal Costs",
+            "page": 36
+        },
+        {
+            "connections": [
+                "composites",
+                "calculation",
+                "calculation",
+                "calculation",
+                "depreciation",
+                "occupancy"
+            ],
+            "id": "8.2.5 Cost Calculation \u0013 Machine Costs",
+            "page": 37
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "financials",
+                "basics",
+                "calculation",
+                "shopfloor"
+            ],
+            "id": "8.2              Technology Readiness Level and Costing",
+            "page": 38
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "fabrique",
+                "binder",
+                "resin",
+                "foils",
+                "tacky",
+                "infiltration",
+                "preform",
+                "demoulding",
+                "vari",
+                "cutter",
+                "preformtool"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Process Chain Example",
+            "page": 39
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "unscheduled",
+                "breakdown"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Value Added Time (Milling)",
+            "page": 40
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "efficiency",
+                "breakdown",
+                "unscheduled"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Value Added Time (Milling)",
+            "page": 41
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "effectiveness",
+                "availability",
+                "availability",
+                "constraints",
+                "bottlenecks",
+                "shopfloor"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Overall Equipment",
+            "page": 42
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "taiichi",
+                "ohno",
+                "overproduction",
+                "transportation"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 7 Sources of Waste & 5S",
+            "page": 43
+        },
+        {
+            "connections": [
+                "composites",
+                "shopfloor",
+                "tools",
+                "vibration",
+                "vibration",
+                "vibration"
+            ],
+            "id": "8.2.6 Costs on the Shopfloor \u0013 Predictive Maintenance",
+            "page": 44
+        },
+        {
+            "connections": [
+                "composites",
+                "complexity",
+                "machines",
+                "factories",
+                "intermidiates",
+                "suppliers"
+            ],
+            "id": "8.2.6 Outlook \u0013 Complexity in Production",
+            "page": 45
+        },
+        {
+            "connections": [
+                "composites",
+                "components",
+                "inhouse",
+                "allocation",
+                "logistics",
+                "logistics"
+            ],
+            "id": "8.2.6 Outlook \u0013 Vertical Integration",
+            "page": 46
+        },
+        {
+            "connections": [
+                "composites",
+                "artley",
+                "applications",
+                "hubs",
+                "applications",
+                "eklm",
+                "ehrlenspiel",
+                "kiewert",
+                "lindemann",
+                "kosteng",
+                "nstig",
+                "entwickeln",
+                "konstruieren",
+                "kosteng",
+                "nstig",
+                "entwickeln",
+                "konstruieren",
+                "attacker",
+                "herbeck",
+                "manufaktur",
+                "produktion",
+                "herausforderungen",
+                "faserkunststoffverbunde",
+                "proceedings",
+                "jaqin",
+                "rozak",
+                "purba",
+                "effectiveness",
+                "transactions",
+                "applications",
+                "mankins",
+                "readiness"
+            ],
+            "id": "A1 References (1/3)",
+            "page": 47
+        },
+        {
+            "connections": [
+                "composites",
+                "littkemann",
+                "innovationscontrolling",
+                "betriebswirtschaftlicher",
+                "gabler",
+                "fachverlage",
+                "gmbh",
+                "mcguigan",
+                "kaysun",
+                "blog",
+                "ohno",
+                "toyota",
+                "puvanasvaran",
+                "alagendran",
+                "efficiency",
+                "procedia",
+                "proeng",
+                "rossini",
+                "valley",
+                "valley",
+                "shingo",
+                "tovota",
+                "viewpoint"
+            ],
+            "id": "A1 References (2/3)",
+            "page": 48
+        },
+        {
+            "connections": [
+                "composites",
+                "tewis",
+                "adoption",
+                "transitionen",
+                "scrumburg",
+                "wordpress",
+                "adoption",
+                "fuer",
+                "transitionen",
+                "readiness",
+                "deskbook",
+                "voigt",
+                "industrielles",
+                "heidelberg"
+            ],
+            "id": "A1 References (3/3)",
+            "page": 49
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "readiness",
+                "breakeven",
+                "modularization",
+                "majority",
+                "lifecycle",
+                "efficiency",
+                "effectiveness"
+            ],
+            "id": "A2 Study Questions",
+            "page": 50
+        },
+        {
+            "connections": [
+                "composites",
+                "grenzkosten",
+                "umsatz",
+                "spritzguss",
+                "produktionsweg",
+                "contribution",
+                "margin",
+                "deckungsbeitrag",
+                "utilisation",
+                "kapazit",
+                "tsauslastung",
+                "wertsch",
+                "pfende",
+                "fehlerrate",
+                "wertsch",
+                "pfungstiefe",
+                "shopfloor",
+                "fertigung",
+                "werkhalle",
+                "humankapital"
+            ],
+            "id": "A3 Glossary",
+            "page": 51
+        },
+        {
+            "connections": [
+                "composites",
+                "readiness",
+                "klaus",
+                "drechsler",
+                "swen",
+                "zaremba",
+                "dipl",
+                "wettemann",
+                "bernhard",
+                "bauer",
+                "composites"
+            ],
+            "id": "Aerospace Materials Science and Processes",
+            "page": 52
+        }
+    ]
+}

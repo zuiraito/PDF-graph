@@ -76,7 +76,7 @@ std::vector<std::string> filter_ignore_words(const std::vector<std::string> &tok
     std::vector<std::string> filtered;
     for (const auto &word : tokens) {
         // Ignore words that are in the ignore_words set or are exactly 2 characters long
-        if (ignore_words.find(word) == ignore_words.end() && word.size() != 2) {
+        if (ignore_words.find(word) == ignore_words.end() && word.size() >= 4) {
             filtered.push_back(word);
         }
     }
